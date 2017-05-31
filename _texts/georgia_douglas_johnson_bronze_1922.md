@@ -4,21 +4,18 @@ title: Bronze
 author: Georgia Douglas Johnson
 source: "Archive.org"
 toc:
-- EXHORTATION 
- - Sonnet to the Mantled 15
- - Sonnet to Those Who See But Darkly 16 
- - Brotherhood 17 
-- SUPPLICATION 
- - Let Me Not Lose My Dream 21 
- - Let Me Not Hate 22 
- - Calling Dreams 23 
-- SHADOW 
- - Sorrow Singers ,27 
- - The Cross 28 
- - Moods 32 
- - The Hegira 33 
- - The Passing of the Ex-Slave 35 
- - The Octoroon 36 
+- Sonnet to the Mantled 15
+- Sonnet to Those Who See But Darkly 16 
+- Brotherhood 17 
+- Let Me Not Lose My Dream 21 
+- Let Me Not Hate 22 
+- Calling Dreams 23 
+- Sorrow Singers ,27 
+- The Cross 28 
+- Moods 32 
+- The Hegira 33 
+- The Passing of the Ex-Slave 35 
+- The Octoroon 36 
 
 ---
 
@@ -256,7 +253,7 @@ Exhortation
 
 
 
-SONNET TO THE MANTLED 
+## SONNET TO THE MANTLED
 
 And they shall rise and cast their mantles by, 
 Erect and strong and visioned, in the day 
@@ -274,10 +271,10 @@ Break forth in major rhapsodies, full sweet.
 Into the very star-shine, lo! they come 
 Wearing the bays of victory complete! 
 
+---
 
 
-
-SONNET TO THOSE WHO SEE BUT DARKLY 
+## SONNET TO THOSE WHO SEE BUT DARKLY 
 
 Their gaze uplifting from shoals of despair 
 Like phantoms groping enswathed from the light 
@@ -296,9 +293,9 @@ Charging the ultimate, rending the veil.
 
 
 
+---
 
-
-BROTHERHOOD 
+## BROTHERHOOD 
 
 Come, brothers all! 
 Shall we not wend 
@@ -316,9 +313,9 @@ That stumble down life's checkered street.
 
 Supplication 
 
+---
 
-
-LET ME NOT LOSE MY DREAM 
+## LET ME NOT LOSE MY DREAM 
 
 Let me not lose my dream, e'en though I scan the veil 
        with eyes unseeing through their glaze of tears, 
