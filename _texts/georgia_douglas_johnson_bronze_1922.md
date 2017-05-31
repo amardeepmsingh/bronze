@@ -3,6 +3,23 @@ layout: poem
 title: Bronze
 author: Georgia Douglas Johnson
 source: "Archive.org"
+toc:
+- EXHORTATION 
+ - Sonnet to the Mantled 15
+ - Sonnet to Those Who See But Darkly 16 
+ - Brotherhood 17 
+- SUPPLICATION 
+ - Let Me Not Lose My Dream 21 
+ - Let Me Not Hate 22 
+ - Calling Dreams 23 
+- SHADOW 
+ - Sorrow Singers ,27 
+ - The Cross 28 
+ - Moods 32 
+ - The Hegira 33 
+ - The Passing of the Ex-Slave 35 
+ - The Octoroon 36 
+
 ---
 
 
