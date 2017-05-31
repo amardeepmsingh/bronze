@@ -1,3 +1,10 @@
+---
+layout: poem
+title: Bronze
+author: Georgia Douglas Johnson
+source: Archive.org
+---
+
 
 BRONZE: 
 A BOOK OF VERSE 
