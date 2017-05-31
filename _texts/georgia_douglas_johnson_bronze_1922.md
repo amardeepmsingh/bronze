@@ -4,18 +4,18 @@ title: Bronze
 author: Georgia Douglas Johnson
 source: "Archive.org"
 toc:
-- Sonnet to the Mantled 15
-- Sonnet to Those Who See But Darkly 16 
-- Brotherhood 17 
-- Let Me Not Lose My Dream 21 
-- Let Me Not Hate 22 
-- Calling Dreams 23 
-- Sorrow Singers ,27 
-- The Cross 28 
-- Moods 32 
-- The Hegira 33 
-- The Passing of the Ex-Slave 35 
-- The Octoroon 36 
+- Sonnet to the Mantled
+- Sonnet to Those Who See But Darkly
+- Brotherhood 
+- Let Me Not Lose My Dream 
+- Let Me Not Hate 
+- Calling Dreams 
+- Sorrow Singers 
+- The Cross 
+- Moods 
+- The Hegira 
+- The Passing of the Ex-Slave 
+- The Octoroon 
 
 ---
 
