@@ -4,6 +4,7 @@ title: Bronze
 author: Georgia Douglas Johnson
 source: "Archive.org"
 toc:
+- Foreword
 - Sonnet to the Mantled
 - Sonnet to Those Who See But Darkly
 - Brotherhood 
@@ -16,6 +17,53 @@ toc:
 - The Hegira 
 - The Passing of the Ex-Slave 
 - The Octoroon 
+- The Mother
+- Maternity
+- Black Woman
+- "One of the Least of These, My Little One" 
+- Shall I Say, "My Son, You're Branded?"
+- My Boy 
+- Guardianship 
+- Utopia
+- Little Son
+- Benediction
+- Credo
+- Promise
+- The Suppliant
+- Cosmopolite
+- Fusion
+- Perspective
+- When I Rise Up
+- Faith
+- We Face the Future
+- Soldier
+- Homing Braves
+- Taps
+- Peace
+- Question
+- The Initiate
+- Bondage
+- Resolution
+- Eclipse
+- Why? 
+- Husks
+- The Watcher
+- The Vanishing Road
+- Service
+- To the Martyred
+- To John Brown
+- To Abraham Lincoln
+- To William Stanley Braithwaite
+- To W. E. B. DuBois
+- To Ridgely Torrence
+- To Richard R. Wright
+- To Samuel Coleridge Taylor
+- To Emilie Bigelow Hapgood
+- To Henry Lincoln Johnson
+- To Mary Church Terrell
+- To May Howard Jackson
+- To the Memory of Inez Mulholland 
+- To Atlanta University
 
 ---
 
@@ -77,9 +125,9 @@ This book is the child of a hitter earth-wound. I sit on the earth and sing — 
 
 TO H. L. J. 
 
+---
 
-
-FOREWORD 
+## FOREWORD 
 
 Those who know what it means to be a colored woman in 1922 — and know it not so much in fact as in feeling, apprehension, unrest and delicate yet stern thought —  must read Georgia Douglas Johnson's Bronze. Much of it will not touch this reader and that, and some of it will mystify and puzzle them as a sort of reiteration and over-emphasis. But none can fail to be caught here and there by a word — a phrase — a period that tells a life history or even paints the history of a generation.  Can you not see that marching of the mantled with  
 
@@ -99,197 +147,47 @@ W. E. B. Du BOIS.
 New York, August 4, 1922. 
 
 
-
-CONTENTS 
-
-Foreword— Dr. William E. B. DuBois „ _ „....- o 9 
-
-EXHORTATION 
-
-Sonnet to the Mantled 15
-
-Sonnet to Those Who See But Darkly 16 
-
-Brotherhood 17 
-
-SUPPLICATION 
-
-Let Me Not Lose My Dream 21 
-
-Let Me Not Hate 22 
-
-Calling Dreams 23 
-
-SHADOW 
-
-Sorrow Singers ,27 
-
-The Cross 28 
-
-Moods 32 
-
-The Hegira 33 
-
-The Passing of the Ex-Slave 35 
-
-The Octoroon 36 
-
-MOTHERHOOD ' 
-
-The Mother 41 
-
-Maternity  42 
-
-Black Woman 43 
-
-"One of the Least of These, My Little One" 44 
-
-Shall I Say, "My Son, You're Branded?" 45 
-
-My Boy 46 
-
-Guardianship _47 
-
-Utopia 48 
-
-Little Son 49 
-
-Benediction 50 
-
-PRESCIENCE 
-
-Credo 53 
-
-Promise 54 
-
-The Suppliant 55 
-
-
-
-EXALTATION 
-
-Cosmopolite 59 
-
-Fusion 60 
-
-Perspective 61 
-
-When I Rise Up 62 
-
-Faith 63 
-
-
-MARTIAL 
-
-We Face the Future 67 
-
-Soldier  68 
-
-Homing Braves  69 
-
-Taps 70 
-
-Peace 71 
-
-
-RANDOM 
-
-Question 75 
-
-The Initiate 76 
-
-Bondage  77 
-
-Resolution 78 
-
-Eclipse  79 
-
-Why? 80 
-
-Husks  81 
-
-The Watcher 82 
-
-The Vanishing Road 83 
-
-
-APPRECIATIONS 
-
-Service 87 
-
-To the Martyred 88 
-
-To John Brown  89 
-
-To Abraham Lincoln 90 
-
-To William Stanley Braithwaite  91 
-
-To W. E. B. DuBois  92 
-
-To Ridgely Torrence 93 
-
-To Richard R. Wright 94 
-
-To Samuel Coleridge Taylor 95 
-
-To Emilie Bigelow Hapgood 96 
-
-To Henry Lincoln Johnson 97 
-
-To Mary Church Terrell  98 
-
-To May Howard Jackson  99 
-
-To the Memory of Inez Mulholland 100 
-
-To Atlanta University 101 
-
-
-
-
-Exhortation 
-
+---
 
 
 
 ## SONNET TO THE MANTLED
 
-And they shall rise and cast their mantles by, 
-Erect and strong and visioned, in the day 
-That rings the knell of Curfew o'er the sway 
-Of prejudice — who reels with mortal cry 
-To lift no more her leprous, blinded eye. 
-Reft of the fetters, far more cursed than they 
-Which held dominion o'er human clay. 
-The spirit soars aloft where rainbows lie. 
+- And they shall rise and cast their mantles by, 
+- Erect and strong and visioned, in the day 
+- That rings the knell of Curfew o'er the sway 
+- Of prejudice — who reels with mortal cry 
+- To lift no more her leprous, blinded eye. 
+- Reft of the fetters, far more cursed than they 
+- Which held dominion o'er human clay. 
+- The spirit soars aloft where rainbows lie. 
 
-Like joyful exiles swift returning home — 
-The rhythmic chanson of their eager feet. 
-While voices strange to ecstasy, long dumb. 
-Break forth in major rhapsodies, full sweet. 
-Into the very star-shine, lo! they come 
-Wearing the bays of victory complete! 
+- Like joyful exiles swift returning home — 
+- The rhythmic chanson of their eager feet. 
+- While voices strange to ecstasy, long dumb. 
+- Break forth in major rhapsodies, full sweet. 
+- Into the very star-shine, lo! they come 
+- Wearing the bays of victory complete! 
 
 ---
 
 
 ## SONNET TO THOSE WHO SEE BUT DARKLY 
 
-Their gaze uplifting from shoals of despair 
-Like phantoms groping enswathed from the light 
-Up from miasmic depths, children of night, 
-Surge to the piping of Hope's dulcet lay, 
-Souled like the lily, whose splendors declare 
-God's mazèd paradox — purged of all blight. 
-Out from the quagmire, unsullied and fair. 
+- Their gaze uplifting from shoals of despair 
+- Like phantoms groping enswathed from the light 
+- Up from miasmic depths, children of night, 
+- Surge to the piping of Hope's dulcet lay, 
+- Souled like the lily, whose splendors declare 
+- God's mazèd paradox — purged of all blight. 
+- Out from the quagmire, unsullied and fair. 
 
-Life holds her arms o'er the festering way, 
-Smiles, as their faith-sandalled rushes prevail, 
-Slowly the sun rides the marge of the day. 
-Wine to the lips sorely anguished and pale; 
-On, ever on, do the serried ranks sway 
-Charging the ultimate, rending the veil. 
+- Life holds her arms o'er the festering way, 
+- Smiles, as their faith-sandalled rushes prevail, 
+- Slowly the sun rides the marge of the day. 
+- Wine to the lips sorely anguished and pale; 
+- On, ever on, do the serried ranks sway 
+- Charging the ultimate, rending the veil. 
 
 
 
@@ -297,17 +195,17 @@ Charging the ultimate, rending the veil.
 
 ## BROTHERHOOD 
 
-Come, brothers all! 
-Shall we not wend 
-The blind-way of our prison-world 
-By sympathy entwined? 
-Shall we not make 
-The bleak way for each other's sake 
-Less rugged and unkind? 
-O let each throbbing heart repeat 
-The faint note of another's beat 
-To lift a chanson for the feet 
-That stumble down life's checkered street.
+- Come, brothers all! 
+- Shall we not wend 
+- The blind-way of our prison-world 
+- By sympathy entwined? 
+- Shall we not make 
+- The bleak way for each other's sake 
+- Less rugged and unkind? 
+- O let each throbbing heart repeat 
+- The faint note of another's beat 
+- To lift a chanson for the feet 
+- That stumble down life's checkered street.
 
 
 
@@ -317,36 +215,36 @@ Supplication
 
 ## LET ME NOT LOSE MY DREAM 
 
-Let me not lose my dream, e'en though I scan the veil 
-       with eyes unseeing through their glaze of tears, 
-Let me not falter, though the rungs of fortune perish 
-       as I fare above the tumult, praying purer air, 
-Let me not lose the vision, gird me. Powers that toss 
-       the worlds, I pray! 
-Hold me, and guard, lest anguish tear my dreams 
-       away! 
+- Let me not lose my dream, e'en though I scan the veil 
+-       with eyes unseeing through their glaze of tears, 
+- Let me not falter, though the rungs of fortune perish 
+-        as I fare above the tumult, praying purer air, 
+- Let me not lose the vision, gird me. Powers that toss 
+-        the worlds, I pray! 
+- Hold me, and guard, lest anguish tear my dreams 
+-        away! 
 
 
 ---
 
 ## LET ME NOT HATE 
 
-Let me not hate, although the bruising world decries 
-       my peace, 
-Gives me no quarter, hounds me while I sleep; 
-Would snuff the candles of my soul and sear my inmost 
-       dreamings. 
+- Let me not hate, although the bruising world decries 
+-        my peace, 
+- Gives me no quarter, hounds me while I sleep; 
+- Would snuff the candles of my soul and sear my inmost 
+-        dreamings. 
 
-Let me not hate, though girt by vipers, green and hiss- 
-       ing through the dark; 
+- Let me not hate, though girt by vipers, green and hiss- 
+-        ing through the dark; 
 
-I fain must love. God help me keep the altar-gleams 
-       that flicker wearily, anon, 
+- I fain must love. God help me keep the altar-gleams 
+-        that flicker wearily, anon, 
 
-On down the world's grim night! 
+- On down the world's grim night! 
 
 
-
+---
 
 
 ## CALLING DREAMS 
@@ -380,135 +278,135 @@ SHADOW
 
 ## SORROW SINGERS 
 
-Hear their viol-voices ringing 
-       Down the corridor of years, 
-As they lift their twilight faces 
-       Through a mist of falling tears ! 
+- Hear their viol-voices ringing 
+-        Down the corridor of years, 
+- As they lift their twilight faces 
+-        Through a mist of falling tears ! 
 
 ---
  
 ## THE CROSS 
 
-All day the world's mad mocking strife, 
-The venomed prick of probing knife, 
-The baleful, subtle leer of scorn 
-That rims the world from morn to morn, 
-While reptile-visions writhe and creep 
-Into the very arms of sleep 
-To quench the fitful burnished gleams: 
-A crucifixion in my dreams! 
+- All day the world's mad mocking strife, 
+- The venomed prick of probing knife, 
+- The baleful, subtle leer of scorn 
+- That rims the world from morn to morn, 
+- While reptile-visions writhe and creep 
+- Into the very arms of sleep 
+- To quench the fitful burnished gleams: 
+- A crucifixion in my dreams! 
 
 
 ---
 
 ## PREJUDICE 
 
-These fell miasmic rings of mist, with ghoulish menace 
-       bound, 
-Like noose-horizons tightening my little world around, 
-They still the soaring will to wing, to dance, to speed 
-       away. 
-And fling the soul insurgent back into its shell of clay: 
+- These fell miasmic rings of mist, with ghoulish menace 
+-        bound, 
+- Like noose-horizons tightening my little world around, 
+- They still the soaring will to wing, to dance, to speed 
+-        away. 
+- And fling the soul insurgent back into its shell of clay: 
 
-Beneath incrusted silences, a seething Etna lies. 
-The fire of whose furnaces may sleep — but never dies! 
+- Beneath incrusted silences, a seething Etna lies. 
+- The fire of whose furnaces may sleep — but never dies! 
 
 
 ---
 
 ## LAOCOÖN 
 
-This spirit-choking atmosphere 
-       With deadly serpent-coil 
-Entwines my soaring-upwardness 
-       And chains me to the soil, 
-Where'er I seek with eager stride 
-       To gain yon gleaming height, 
-These noisesome fetters coil aloft 
-       And snare my buoyant flight. 
+- This spirit-choking atmosphere 
+-        With deadly serpent-coil 
+- Entwines my soaring-upwardness 
+-        And chains me to the soil, 
+- Where'er I seek with eager stride 
+-        To gain yon gleaming height, 
+- These noisesome fetters coil aloft 
+-        And snare my buoyant flight. 
 
-O, why these aspirations bold, 
-       These rigours of desire. 
-That surge within so ceaselessly 
-       Like living tongues of fire? 
-And why these glowing forms of hope 
-       That scintillate and shine, 
-If naught of all that burnished dream 
-       Can evermore be mine? 
-It cannot be, fate does not mock, 
-       And man's untoward decree 
-Shall not forever thus confine 
-       My life's entirety, 
-My every fibre fierce rebels 
-       Against this servile role, 
-And all my being broods to break 
-       This death-grip from my soul! 
+- O, why these aspirations bold, 
+-        These rigours of desire. 
+- That surge within so ceaselessly 
+-        Like living tongues of fire? 
+- And why these glowing forms of hope 
+-        That scintillate and shine, 
+- If naught of all that burnished dream 
+-        Can evermore be mine? 
+- It cannot be, fate does not mock, 
+-        And man's untoward decree 
+- Shall not forever thus confine 
+-        My life's entirety, 
+- My every fibre fierce rebels 
+-        Against this servile role, 
+- And all my being broods to break 
+-        This death-grip from my soul! 
 
 
 ---
 
 ## MOODS 
 
-My heart is pregnant with a great despair 
-With much beholding of my people's care, 
-'Mid blinded prejudice and nurtured wrong, 
-Exhaling wantonly the days along: 
-I mark Faith's fragile craft of cheering light 
-Tossing imperiled on the sea of night, 
-And then, enanguished, comes my heart's low cry, 
-"God, God! I crave to learn the reason why!" 
-Again, in spirit loftily I soar 
-With winged vision through earth's outer door. 
-In such an hour, it is mine to see, 
-In frowning fortune smiling destiny! 
+- My heart is pregnant with a great despair 
+- With much beholding of my people's care, 
+- 'Mid blinded prejudice and nurtured wrong, 
+- Exhaling wantonly the days along: 
+- I mark Faith's fragile craft of cheering light 
+- Tossing imperiled on the sea of night, 
+- And then, enanguished, comes my heart's low cry, 
+- "God, God! I crave to learn the reason why!" 
+- Again, in spirit loftily I soar 
+- With winged vision through earth's outer door. 
+- In such an hour, it is mine to see, 
+- In frowning fortune smiling destiny! 
 
 
 --- 
 
 ## HEGIRA 
 
-Oh, black man, why do you northward roam, and leave 
-       all the farm lands bare? 
-Is your house not warm, tightly thatched from storm, 
-       and a larder replete your share? 
-And have you not schools, fit with books and tools the 
-       steps of your young to guide? 
-Then what do you seek, in the north cold and bleak, 
-       'mid the whirl of its teeming tide? 
+- Oh, black man, why do you northward roam, and leave 
+-        all the farm lands bare? 
+- Is your house not warm, tightly thatched from storm, 
+-        and a larder replete your share? 
+- And have you not schools, fit with books and tools the 
+-        steps of your young to guide? 
+- Then what do you seek, in the north cold and bleak, 
+-        'mid the whirl of its teeming tide? 
 
-I have toiled in your cornfields, and parched in the sun, 
-       I have bowed 'neath your load of care, 
-I have patiently garnered your bright golden grain, in 
-       season of storm and fair. 
-With a smile I have answered your glowering gloom, 
-       while my wounded heart quivering bled. 
-Trailing mute in your wake, as your rosy dawn breaks, 
-       while I curtain the mound of my dead. 
+- I have toiled in your cornfields, and parched in the sun, 
+-        I have bowed 'neath your load of care, 
+- I have patiently garnered your bright golden grain, in 
+-        season of storm and fair. 
+- With a smile I have answered your glowering gloom, 
+-        while my wounded heart quivering bled. 
+- Trailing mute in your wake, as your rosy dawn breaks, 
+-        while I curtain the mound of my dead. 
 
-Though my children are taught in the schools you have 
-       wrought, they are blind to the sheen of the sky, 
-For the brand of your hand, casts a pall o'er the land, 
-       that enshadows the gleam of the eye. 
-My sons, deftly sapped of the brawn-hood of man, self- 
-       rejected and impotent stand, 
+- Though my children are taught in the schools you have 
+-        wrought, they are blind to the sheen of the sky, 
+- For the brand of your hand, casts a pall o'er the land, 
+-        that enshadows the gleam of the eye. 
+- My sons, deftly sapped of the brawn-hood of man, self- 
+-        rejected and impotent stand, 
 
-My daughters, unhaloed, unhonored, undone, feed the 	
-       lust of a dominant land. 
+- My daughters, unhaloed, unhonored, undone, feed the 	
+-        lust of a dominant land. 
 
-I would not remember, yet could not forget, how the 
-       hearts beating true to your own. 
-You've tortured, and wounded, and filtered their blood 
-       'till a budding Hegira has blown. 
+- I would not remember, yet could not forget, how the 
+-        hearts beating true to your own. 
+- You've tortured, and wounded, and filtered their blood 
+-        'till a budding Hegira has blown. 
 
-Unstrange is the pathway to Calvary's hill, which I 
-       wend in my dumb agony, 
-Up its perilous height, in the pale morning light, to 
-       dissever my own from the tree. 
+- Unstrange is the pathway to Calvary's hill, which I 
+-        wend in my dumb agony, 
+- Up its perilous height, in the pale morning light, to 
+-        dissever my own from the tree. 
 
-And so I'm away, where the sky-line of day sets the 
-       arch of its rainbow afar, 
-To the land of the north, where the symbol of worth 
-       sets the broad gates of combat ajar! 
+- And so I'm away, where the sky-line of day sets the 
+-        arch of its rainbow afar, 
+- To the land of the north, where the symbol of worth 
+-        sets the broad gates of combat ajar! 
 
 
 
@@ -516,77 +414,77 @@ To the land of the north, where the symbol of worth
 
 ## THE PASSING OF THE EX-SLAVE 
 
-Swift melting into yesterday, 
-The tortured hordes of ebon-clay; 
-No more is heard the plaintive strain, 
-The rhythmic chaunting of their pain. 
+- Swift melting into yesterday, 
+- The tortured hordes of ebon-clay; 
+- No more is heard the plaintive strain, 
+- The rhythmic chaunting of their pain. 
 
-Their mounded bodies dimly rise 
-To fill the gulf of sacrifice, 
-And o'er their silent hearts below 
-The mantled millions softly go. 
+- Their mounded bodies dimly rise 
+- To fill the gulf of sacrifice, 
+- And o'er their silent hearts below 
+- The mantled millions softly go. 
 
-Some few remaining still abide. 
-Gnarled sentinels of time and tide. 
-Now mellowed by a chastened glow 
-Which lighter hearts will never know. 
+- Some few remaining still abide. 
+- Gnarled sentinels of time and tide. 
+- Now mellowed by a chastened glow 
+- Which lighter hearts will never know. 
 
-Winding into the silent way, 
-Spent with the travail of the day, 
-So royal In their humble might 
-These uncrowned Pilgrims of the Night! 
+- Winding into the silent way, 
+- Spent with the travail of the day, 
+- So royal In their humble might 
+- These uncrowned Pilgrims of the Night! 
 
 
 ---
 
 ## THE OCTOROON 
 
-One drop of midnight in the dawn of life's pulsating 
-       stream 
-Marks her an alien from her kind, a shade amid its 
-       gleam; 
-Forevermore her step she bends insular, strange, 
-       apart — 
-And none can read the riddle of her wildly warring 
-       heart. 
+- One drop of midnight in the dawn of life's pulsating 
+-        stream 
+- Marks her an alien from her kind, a shade amid its 
+-        gleam; 
+- Forevermore her step she bends insular, strange, 
+-        apart — 
+- And none can read the riddle of her wildly warring 
+-        heart. 
 
-The stormy current of her blood beats like a mighty sea 
-Against the man-wrought iron bars of her captivity. 
-For refuge, succor, peace and rest, she seeks that 
-       humble fold 
-Whose every breath is kindliness, whose hearts are 
-       purest gold. 
+- The stormy current of her blood beats like a mighty sea 
+- Against the man-wrought iron bars of her captivity. 
+- For refuge, succor, peace and rest, she seeks that 
+-        humble fold 
+- Whose every breath is kindliness, whose hearts are 
+-        purest gold. 
 
 
 ---
 
 ## ALIENS 
 
-(To You — Everywhere! Dedicated) 
+- (To You — Everywhere! Dedicated) 
 
-They seem to smile as others smile, the masquerader's 
-       art 
-Conceals them, while, in verity, they're eating out their 
-       heart. 
-Betwixt the two contending stones of crass humanity 
-They lie, the fretted fabric of a dual dynasty. 
+- They seem to smile as others smile, the masquerader's 
+-        art 
+- Conceals them, while, in verity, they're eating out their 
+-        heart. 
+- Betwixt the two contending stones of crass humanity 
+- They lie, the fretted fabric of a dual dynasty. 
 
-A single drop, a sable strain debars them from their 
-       own,-— 
-The others — fold them furtively, but God! they are 
-       alone. 
-Blown by the fickle winds of fate far from the traveled 
-       mart 
-To die, when they have quite consumed the morsel of 
-       their heart. 
-When man shall lift his lowered eyes to meet the moon 
-       of truth, 
-Shall break the shallow shell of pride and wax in ways 
-       of ruth, 
-He cannot hate, for love shall reign untrammelled in 
-       the soul, 
-While peace shall spread a rainbow o'er the earth from 
-       pole to pole. 
+- A single drop, a sable strain debars them from their 
+-        own,-— 
+- The others — fold them furtively, but God! they are 
+-        alone. 
+- Blown by the fickle winds of fate far from the traveled 
+-        mart 
+- To die, when they have quite consumed the morsel of 
+-        their heart. 
+- When man shall lift his lowered eyes to meet the moon 
+-        of truth, 
+- Shall break the shallow shell of pride and wax in ways 
+-        of ruth, 
+- He cannot hate, for love shall reign untrammelled in 
+-        the soul, 
+- While peace shall spread a rainbow o'er the earth from 
+-        pole to pole. 
 
 
 --- 
@@ -595,260 +493,263 @@ While peace shall spread a rainbow o'er the earth from
 
 
 
-Nor shall I in sorrow repine, 
-But offer a paean of praise 
-To the infinite God of my days 
-Who marshals the pivoting spheres 
-Through the intricate maze of the years, 
-Who loosens the luminous flood 
-That lightens the purlieus of men, 
-I shall not in sorrow repine 
-To break the eternal Amen! 
+- Nor shall I in sorrow repine, 
+- But offer a paean of praise 
+- To the infinite God of my days 
+- Who marshals the pivoting spheres 
+- Through the intricate maze of the years, 
+- Who loosens the luminous flood 
+- That lightens the purlieus of men, 
+- I shall not in sorrow repine 
+- To break the eternal Amen! 
 
 
 
 
 Motherhood 
 
-THE MOTHER 
+--- 
 
-The mother soothes her mantled child 
-With incantation sad and wild; 
-A deep compassion brims her eye 
-And stills upon her lips, the sigh. 
+## THE MOTHER 
 
-Her thoughts are leaping down the years, 
-O'er branding bars, through seething tears, 
-Her heart is sandaling his feet 
-Adown the world's corroding street. 
+- The mother soothes her mantled child 
+- With incantation sad and wild; 
+- A deep compassion brims her eye 
+- And stills upon her lips, the sigh. 
 
-Then, with a start she dons a smile 
-His tender yearnings to beguile. 
-And only God will ever know 
-The wordless measure of her woe. 
+- Her thoughts are leaping down the years, 
+- O'er branding bars, through seething tears, 
+- Her heart is sandaling his feet 
+- Adown the world's corroding street. 
 
+- Then, with a start she dons a smile 
+- His tender yearnings to beguile. 
+- And only God will ever know 
+- The wordless measure of her woe. 
 
-MATERNITY 
+---
 
-Proud? 
-Perhaps— and yet 
-I cannot say with surety 
-That I am happy thus to be 
-Responsible for this young life's embarking. 
-Is he not thrall to prevalent conditions? 
-Does not the day loom dark apace 
-To weave its cordon of disgrace 
-Around his lifted throat? 
-Is not this mezzotint enough and surfeit 
-For such prescience? 
-Ah, did I dare 
-Recall the pulsing life I gave, 
-And fold him in the kindly grave ! 
+## MATERNITY 
 
-Proud? 
-Perhaps — could I but ever so faintly scan 
-The broad horizon of a man 
-Swept fair for his dominion — 
-So hesitant and half-afraid 
-I view this babe of sorrow! 
+- Proud? 
+- Perhaps— and yet 
+- I cannot say with surety 
+- That I am happy thus to be 
+- Responsible for this young life's embarking. 
+- Is he not thrall to prevalent conditions? 
+- Does not the day loom dark apace 
+- To weave its cordon of disgrace 
+- Around his lifted throat? 
+- Is not this mezzotint enough and surfeit 
+- For such prescience? 
+- Ah, did I dare 
+- Recall the pulsing life I gave, 
+- And fold him in the kindly grave ! 
 
-
-
-
-BLACK WOMAN 
-
-Don't knock at my door, little child, 
-       I cannot let you in. 
-You know not what a world this is 
-       Of cruelty and sin. 
-Wait in the still eternity 
-       Until I come to you, 
-The world is cruel, cruel, child, 
-       I cannot let you in! 
-
-Don't knock at my heart, little one, 
-       I cannot bear the pain 
-Of turning deaf-ear to your call 
-       Time and time again! 
-You do not know the monster men 
-       Inhabiting the earth. 
-Be still, be still, my precious child, 
-       I must not give you birth! 
+- Proud? 
+- Perhaps — could I but ever so faintly scan 
+- The broad horizon of a man 
+- Swept fair for his dominion — 
+- So hesitant and half-afraid 
+- I view this babe of sorrow! 
 
 
+---
 
-	
+## BLACK WOMAN 
 
-"ONE OF THE LEAST OF THESE, 
-MY LITTLE ONE'' 
+- Don't knock at my door, little child, 
+-        I cannot let you in. 
+- You know not what a world this is 
+-        Of cruelty and sin. 
+- Wait in the still eternity 
+-        Until I come to you, 
+- The world is cruel, cruel, child, 
+-        I cannot let you in! 
 
-The infant eyes look out amazed upon the frowning 
-       earth, 
-A stranger, in a land now strange, child of the mantled- 
-       birth; 
-
-Waxing, he wonders more and more; the scowling grows 
-       apace; 
-A world, behind its barring doors, reviles his ebon face: 
-
-Yet from this maelstrom issues forth a God-like entity. 
-That loves a world all loveless, and smiles on Calvary! 
+- Don't knock at my heart, little one, 
+-        I cannot bear the pain 
+- Of turning deaf-ear to your call 
+-        Time and time again! 
+- You do not know the monster men 
+-        Inhabiting the earth. 
+- Be still, be still, my precious child, 
+-        I must not give you birth! 
 
 
 
-SHALL I SAY, "MY SON, YOU'RE BRANDED"? 
+---	
 
-Shall I say, "My son, you're branded in this country's 
-       pageantry, 
-By strange subtleties you're tethered, and no forum 
-       sets you free?" 
-Shall I mark the young lights fading through your soul- 
-       enchannelled eye, 
-As the dusky pall of shadows screen the highway of 
-       your sky? 
+## "ONE OF THE LEAST OF THESE, MY LITTLE ONE'' 
 
-Or shall I, with love prophetic, bid you dauntlessly 
-       arise. 
-Spurn the handicap that clogs you, taking what the 
-       world denies, 
-Bid you storm the sullen fortress wrought by prejudice 
-       and wrong 
-With a faith that shall not falter, in your heart and on 
-       your tongue! 
+- The infant eyes look out amazed upon the frowning 
+-        earth, 
+- A stranger, in a land now strange, child of the mantled- 
+-        birth; 
 
+- Waxing, he wonders more and more; the scowling grows 
+-        apace; 
+- A world, behind its barring doors, reviles his ebon face: 
 
+- Yet from this maelstrom issues forth a God-like entity. 
+- That loves a world all loveless, and smiles on Calvary! 
 
+---
 
-MY BOY 
+## SHALL I SAY, "MY SON, YOU'RE BRANDED"? 
 
-I hear you singing happily, 
-       My boy of tarnished mien, 
-Lifting your limpid, trustful gaze 
-       In innocence serene. 
+- Shall I say, "My son, you're branded in this country's 
+-        pageantry, 
+- By strange subtleties you're tethered, and no forum 
+-        sets you free?" 
+- Shall I mark the young lights fading through your soul- 
+-        enchannelled eye, 
+- As the dusky pall of shadows screen the highway of 
+-        your sky? 
 
-A thousand javelins of pain 
-       Assault my heaving breast 
-When I behold the storm of years 
-       That beat without your nest. 
+- Or shall I, with love prophetic, bid you dauntlessly 
+-        arise. 
+- Spurn the handicap that clogs you, taking what the 
+-        world denies, 
+- Bid you storm the sullen fortress wrought by prejudice 
+-        and wrong 
+- With a faith that shall not falter, in your heart and on 
+-        your tongue! 
 
-O sing, my lark, your matin song 
-       Of joyous rhapsody, 
-Distil the sweetness of the hours 
-       In gladsome ecstasy. 
-
-For time awaits your buoyant flight 
-       Across the bar of years. 
-Sing, sing your song, my bonny lark, 
-       Before it melts in tears! 
+---
 
 
-GUARDIANSHIP 
+## MY BOY 
 
-That dusky child upon your knee 
-Is breath of God's eternity; 
-Direct his vision to the height — 
-Let naught obscure his royal right. 
+- I hear you singing happily, 
+-        My boy of tarnished mien, 
+- Lifting your limpid, trustful gaze 
+-        In innocence serene. 
 
-Although the highways to renown 
-Are iron-barred by fortune's frown, 
-'Tis his to forge the master-key 
-That wields the locks of destiny 1 
+- A thousand javelins of pain 
+-        Assault my heaving breast 
+- When I behold the storm of years 
+-        That beat without your nest. 
+
+- O sing, my lark, your matin song 
+-        Of joyous rhapsody, 
+- Distil the sweetness of the hours 
+-        In gladsome ecstasy. 
+
+- For time awaits your buoyant flight 
+-        Across the bar of years. 
+- Sing, sing your song, my bonny lark, 
+-        Before it melts in tears! 
+
+---
+
+## GUARDIANSHIP 
+
+- That dusky child upon your knee 
+- Is breath of God's eternity; 
+- Direct his vision to the height — 
+- Let naught obscure his royal right. 
+
+- Although the highways to renown 
+- Are iron-barred by fortune's frown, 
+- 'Tis his to forge the master-key 
+- That wields the locks of destiny 1 
+
+---
+
+## UTOPIA 
+
+- God grant you wider vision, clearer skies, my son, 
+- With morning's rosy kisses on your brow; 
+- May your wild yearnings know repose, 
+- And storm-clouds break to smiles 
+- As you sweep on with spreading wings 
+- Unto a waiting sunset! 
+
+---
+
+## LITTLE SON 
+
+- The very acme of my woe, 
+-        The pivot of my pride, 
+- My consolation, and my hope 
+-        Deferred, but not denied. 
+- The substance of my every dream, 
+-        The riddle of my plight, 
+- The very world epitomized 
+-        In turmoil and delight. 
 
 
+---
 
-UTOPIA 
+## BENEDICTION 
 
-God grant you wider vision, clearer skies, my son, 
-With morning's rosy kisses on your brow; 
-May your wild yearnings know repose, 
-And storm-clouds break to smiles 
-As you sweep on with spreading wings 
-Unto a waiting sunset! 
-
-
-
-LITTLE SON 
-
-The very acme of my woe, 
-       The pivot of my pride, 
-My consolation, and my hope 
-       Deferred, but not denied. 
-The substance of my every dream, 
-       The riddle of my plight, 
-The very world epitomized 
-       In turmoil and delight. 
-
-
-
-
-BENEDICTION 
-
-Go forth, my son, 
-Winged by my heart's desire! 
-Great reaches, yet unknown, 
-Await 
-For your possession. 
-I may not, if I would. 
-Retrace the way with you, 
-My pilgrimage is through, 
-But life is calling you! 
-Fare high and far, my son, 
-A new day has begun. 
-Thy star-ways must be won! 
+- Go forth, my son, 
+- Winged by my heart's desire! 
+- Great reaches, yet unknown, 
+- Await 
+- For your possession. 
+- I may not, if I would. 
+- Retrace the way with you, 
+- My pilgrimage is through, 
+- But life is calling you! 
+- Fare high and far, my son, 
+- A new day has begun. 
+- Thy star-ways must be won! 
 
 
 Prescience 
 
+---
 
-CREDO 
+## CREDO 
 
-I believe in the ultimate justice of Fate; 
-That the races of men front the sun in their turn; 
-That each soul holds the title to infinite wealth 
-In fee to the will as it masters itself; 
-That the heart of humanity sounds the same tone 
-In impious jungle, or sky-kneeling fane. 
-I believe that the key to the life-mystery 
-Lies deeper than reason and further than death. 
-I believe that the rhythmical conscience within 
-Is guidance enough for the conduct of men. 
+- I believe in the ultimate justice of Fate; 
+- That the races of men front the sun in their turn; 
+- That each soul holds the title to infinite wealth 
+- In fee to the will as it masters itself; 
+- That the heart of humanity sounds the same tone 
+- In impious jungle, or sky-kneeling fane. 
+- I believe that the key to the life-mystery 
+- Lies deeper than reason and further than death. 
+- I believe that the rhythmical conscience within 
+- Is guidance enough for the conduct of men. 
 
+---
 
+## PROMISE 
 
-PROMISE 
+- Through the moil and the gloom they have issued 
+-        To the steps of the upwinding hill, 
 
-Through the moil and the gloom they have issued 
-       To the steps of the upwinding hill, 
+- Where the sweet, dulcet pipes of tomorrow 
+-        In their preluding rhapsodies trill. 
 
-Where the sweet, dulcet pipes of tomorrow 
-       In their preluding rhapsodies trill. 
+- With a thud comes a stir in the bosom, 
+-        As there steals on the sight from afar, 
 
-With a thud comes a stir in the bosom, 
-       As there steals on the sight from afar, 
+- Through a break of a cloud's coiling shadow 
+-        The gleam of a bright morning star! 
 
-Through a break of a cloud's coiling shadow 
-       The gleam of a bright morning star! 
+---
 
+## THE SUPPLIANT 
 
+- Long have I beat with timid hands upon life's leaden 
+-        door, 
+- Praying the patient, futile prayer my fathers prayed 
+-        before, 
+- Yet I remain without the close, unheeded and unheard, 
+- And never to my listening ear is borne the waited word. 
 
-THE SUPPLIANT 
+- Soft o'er the threshold of the years there comes this 
+-        counsel cool: 
+- The strong demand, contend, prevail; the beggar is a 
+-        fool! 
 
-Long have I beat with timid hands upon life's leaden 
-       door, 
-Praying the patient, futile prayer my fathers prayed 
-       before, 
-Yet I remain without the close, unheeded and unheard, 
-And never to my listening ear is borne the waited word. 
+---
 
-Soft o'er the threshold of the years there comes this 
-       counsel cool: 
-The strong demand, contend, prevail; the beggar is a 
-       fool! 
-
-
-
-
-HOPE 
+## HOPE 
 
 Frail children of sorrow, dethroned by a hue, 
 The shadows are flecked by the rose sifting through, 
@@ -869,39 +770,45 @@ And each has his hour — to dwell in the sun!
 
 Exaltation 
 
-COSMOPOLITE 
+---
 
-Not wholly this or that, 
-But wrought 
-Of alien bloods am I, 
-A product of the interplay 
-Of traveled hearts. 
-Estranged, yet not estranged, I stand 
-All comprehending; 
-From my estate 
-I view earth's frail dilemma; 
-Scion of fused strength am I, 
-All understanding, 
-Nor this nor that 
-Contains me. 
+## COSMOPOLITE 
 
-
-FUSION 
-
-How deftly does the gardener blend 
-This rose and that 
-To bud a new creation, 
-More gorgeous and more beautiful 
-Than any parent portion, 
-And so, 
-I trace within my warring blood 
-The tributary sources, 
-They potently commingle 
-And sweep 
-With new-born forces! 
+- Not wholly this or that, 
+- But wrought 
+- Of alien bloods am I, 
+- A product of the interplay 
+- Of traveled hearts. 
+- Estranged, yet not estranged, I stand 
+- All comprehending; 
+- From my estate 
+- I view earth's frail dilemma; 
+- Scion of fused strength am I, 
+- All understanding, 
+- Nor this nor that 
+- Contains me. 
 
 
-PERSPECTIVE 
+---
+
+## FUSION 
+
+- How deftly does the gardener blend 
+- This rose and that 
+- To bud a new creation, 
+- More gorgeous and more beautiful 
+- Than any parent portion, 
+- And so, 
+- I trace within my warring blood 
+- The tributary sources, 
+- They potently commingle 
+- And sweep 
+- With new-born forces! 
+
+
+---
+
+## PERSPECTIVE 
 
 Some day 
 I shall be glad that it was mine to be 
