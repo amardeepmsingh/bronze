@@ -68,48 +68,27 @@ toc:
 ---
 
 
-BRONZE: 
-A BOOK OF VERSE 
+by Georgia Douglas Johnson
 
-BY 
-GEORGIA DOUGLAS JOHNSON 
+Author of "The Heart of a Woman," 
+"An Autumn Love Cycle," Etc.
 
-AUTHOR OF: "THE HEART OF A WOMAN" 
-"AN AUTUMN LOVE CYCLE," ETC. 
+With an Introduction by 
 
-WITH AN INTRODUCTION BY 
-
-DR. W.E.B. Dubois 
-
-
+Dr. W.E.B. Dubois 
 
 BOSTON 
-
 B. J. BRIMMER COMPANY 
-
 1922 
 
-
-
-
-
-
 Copyright, 1922, by 
-
 B. J. BRIMMER COMPANY 
-
 Set Up and Printed. November, 1922. 
 
-
-
 Printed in the United States of America 
-
 PRESS OF 
-
 GOODMAN BROTHERS, INC. 
-
 BOSTON, MASS. 
-
 ©CUG90807 
 
 
@@ -504,7 +483,7 @@ SHADOW
 - To break the eternal Amen! 
 
 
-
+---
 
 Motherhood 
 
@@ -698,6 +677,8 @@ Motherhood
 - Thy star-ways must be won! 
 
 
+--- 
+
 Prescience 
 
 ---
@@ -751,22 +732,23 @@ Prescience
 
 ## HOPE 
 
-Frail children of sorrow, dethroned by a hue, 
-The shadows are flecked by the rose sifting through, 
-The world has its motion, all things pass away. 
-No night is omnipotent, there must be day. 
+- Frail children of sorrow, dethroned by a hue, 
+- The shadows are flecked by the rose sifting through, 
+- The world has its motion, all things pass away. 
+- No night is omnipotent, there must be day. 
 
-The oak tarries long in the depth of the seed, 
-But swift is the season of nettle and weed. 
-Abide yet awhile in the mellowing shade. 
-And rise with the hour for which you were made. 
+- The oak tarries long in the depth of the seed, 
+- But swift is the season of nettle and weed. 
+- Abide yet awhile in the mellowing shade. 
+- And rise with the hour for which you were made. 
 
-The cycle of seasons, the tidals of man 
-Revolve in the orb of an infinite plan. 
-We move to the rhythm of ages long done, 
-And each has his hour — to dwell in the sun! 
+- The cycle of seasons, the tidals of man 
+- Revolve in the orb of an infinite plan. 
+- We move to the rhythm of ages long done, 
+- And each has his hour — to dwell in the sun! 
 
 
+--- 
 
 Exaltation 
 
@@ -810,554 +792,556 @@ Exaltation
 
 ## PERSPECTIVE 
 
-Some day 
-I shall be glad that it was mine to be 
-A dark fore-runner of a race burgeoning; 
-I then shall know 
-The secret of life's Calvary, 
-And bless the thorns 
-That wound me! 
+- Some day 
+- I shall be glad that it was mine to be 
+- A dark fore-runner of a race burgeoning; 
+- I then shall know 
+- The secret of life's Calvary, 
+- And bless the thorns 
+- That wound me! 
 
 
+---
 
+## WHEN I RISE UP 
 
-WHEN I RISE UP 
+- When I rise above the earth, 
+- And look down on the things that fetter me, 
+- I beat my wings upon the air. 
+- Or tranquil lie, 
+- Surge after surge of potent strength 
+- Like incense comes to me 
+- When I rise up above the earth 
+- And look down upon the things that fetter me. 
 
-When I rise above the earth, 
-And look down on the things that fetter me, 
-I beat my wings upon the air. 
-Or tranquil lie, 
-Surge after surge of potent strength 
-Like incense comes to me 
-When I rise up above the earth 
-And look down upon the things that fetter me. 
+---
 
+## FAITH 
 
+- The faint lose faith 
+- When in the tomb their all is laid, 
+- And there returns 
+- No echoing of weal or woe. 
+- The strong hope on, 
+- They see the clods close over head, 
+- The grass grow green. 
+- No word is said. 
+- And yet — 
+- A little world within the world 
+- Are we, 
+- Daily our hearts' high yearnings fade, 
+- Are buried! 
+- New ones are made, — 
+- Are crucified! 
+- And yet — 
 
-FAITH 
-
-The faint lose faith 
-When in the tomb their all is laid, 
-And there returns 
-No echoing of weal or woe. 
-The strong hope on, 
-They see the clods close over head, 
-The grass grow green. 
-No word is said. 
-And yet — 
-A little world within the world 
-Are we, 
-Daily our hearts' high yearnings fade, 
-Are buried! 
-New ones are made, — 
-Are crucified! 
-And yet — 
-
-
+----
 
 Martial 
 
-WE FACE THE FUTURE 
+---
 
-The hour Is big with sooth and sign, with errant men 
-       at war, 
-While blood of alien, friend, and foe imbues the land 
-       afar, 
-And we, with sable faces pent, move with the vanguard 
-	line. 
-Shod with a faith that Springtime keeps, and all the 
-       stars opine. 
+## WE FACE THE FUTURE 
 
+- The hour Is big with sooth and sign, with errant men 
+-        at war, 
+- While blood of alien, friend, and foe imbues the land 
+-        afar, 
+- And we, with sable faces pent, move with the vanguard 
+-  	 line. 
+- Shod with a faith that Springtime keeps, and all the 
+-        stars opine. 
 
-SOLDIER 
+--- 
 
-Though I should weep until the judgment, 
-How would it serve — 
-Brave men are fighting, women speed them, 
-'Tis a day 
-Of crucial conflict! 
-My son, sometimes it seems I'd rather hold 
-You safe beneath my heart 
-Than send you forth! 
-But lo! The sun is red and weaker children go! 
-Though I should weep until the judgment. 
-Bow would it serve! 
-I'll close my eyes and smile, O Son of Mine, 
-Your cause is kingly! 
-Step proud and confident, worthy your mother; 
-Be firm and brave, O Son of Mine, be strong. 
-For terror waxeth, 
-Speed swift away. 
-Though I should weep until the judgment . . . 
+## SOLDIER 
 
+- Though I should weep until the judgment, 
+- How would it serve — 
+- Brave men are fighting, women speed them, 
+- 'Tis a day 
+- Of crucial conflict! 
+- My son, sometimes it seems I'd rather hold 
+- You safe beneath my heart 
+- Than send you forth! 
+- But lo! The sun is red and weaker children go! 
+- Though I should weep until the judgment. 
+- Bow would it serve! 
+- I'll close my eyes and smile, O Son of Mine, 
+- Your cause is kingly! 
+- Step proud and confident, worthy your mother; 
+- Be firm and brave, O Son of Mine, be strong. 
+- For terror waxeth, 
+- Speed swift away. 
+- Though I should weep until the judgment . . . 
 
+---
 
-HOMING BRAVES 
+## HOMING BRAVES 
 
-There's music in the measured tread 
-Of those returning from the dead 
-Like scattered flowers from a plain 
-So lately crimson, with the slain. 
+- There's music in the measured tread 
+- Of those returning from the dead 
+- Like scattered flowers from a plain 
+- So lately crimson, with the slain. 
 
-No more the sound of shuffled feet 
-Shall mark the poltroon on the street, 
-Nor shifting, sodden, downcast eye 
-Reveal the man afraid to die. 
+- No more the sound of shuffled feet 
+- Shall mark the poltroon on the street, 
+- Nor shifting, sodden, downcast eye 
+- Reveal the man afraid to die. 
 
-They shall have paid full, utterly 
-The price of peace across the sea, 
-When, with uplifted glance, they come 
-To claim a kindly welcome home. 
+- They shall have paid full, utterly 
+- The price of peace across the sea, 
+- When, with uplifted glance, they come 
+- To claim a kindly welcome home. 
 
-Nor shall the old-time daedal sting 
-Of prejudice, their manhood wing. 
-Nor heights, nor depths, nor living streams 
-Stand in the pathway of their dreams! 
+- Nor shall the old-time daedal sting 
+- Of prejudice, their manhood wing. 
+- Nor heights, nor depths, nor living streams 
+- Stand in the pathway of their dreams! 
 
+---
 
-
-69 
-
-
-
-BRONZE 
-
-
-
-TAPS 
+## TAPS 
 
 [EMBEDDED IMAGE]
 
-They are embosomed in the sod, 
-       In still and tranquil leisure, 
-Their lives they've cast like trifles down, 
-       To serve their country's pleasure. 
+- They are embosomed in the sod, 
+-        In still and tranquil leisure, 
+- Their lives they've cast like trifles down, 
+-        To serve their country's pleasure. 
 
-Nor bugle call, nor mother's voice. 
-       Nor moody mob's unreason, 
-Shall break their solace and repose 
-       Through swiftly changing season. 
+- Nor bugle call, nor mother's voice. 
+-        Nor moody mob's unreason, 
+- Shall break their solace and repose 
+-        Through swiftly changing season. 
 
-O graves of men who lived and died 
-       Afar from life's high pleasures, 
-Fold them in tenderly and warm 
-       With manifold fond measures. 
+- O graves of men who lived and died 
+-        Afar from life's high pleasures, 
+- Fold them in tenderly and warm 
+-        With manifold fond measures. 
 
+---
 
-PEACE 
+## PEACE 
 
-Peace on a thousand hills and dales, 
-       Peace in the hearts of men 
-While kindliness reclaims the soil 
-       Where bitterness has been. 
+- Peace on a thousand hills and dales, 
+-        Peace in the hearts of men 
+- While kindliness reclaims the soil 
+-        Where bitterness has been. 
 
-The night of strife is drifting past, 
-       The storm of shell has ceased. 
-Disrupted is the cordon fell, 
-       Sweet charity released. 
+- The night of strife is drifting past, 
+-        The storm of shell has ceased. 
+- Disrupted is the cordon fell, 
+-        Sweet charity released. 
 
-Forth from the shadow, swift we come 
-       Wrought in the flame together. 
-All men as one beneath the sun 
-       In brotherhood forever. 
+- Forth from the shadow, swift we come 
+-        Wrought in the flame together. 
+- All men as one beneath the sun 
+-        In brotherhood forever. 
 
-
-
+---
 
 Random
 
-QUESTION 
+---
 
-Where are the brave men, where are the strong men? 
-Pygmies rise 
-And spawn the earth. 
-Weak-kneed, weak-hearted, and afraid, 
-Afraid to face the counsel of their timid hearts, 
-Afraid to look men squarely, 
-Down they gaze — 
-With fatal fascination 
-Down, down — 
-Into the whirling maggot sands 
-Of prejudice. 
+## QUESTION 
 
+- Where are the brave men, where are the strong men? 
+- Pygmies rise 
+- And spawn the earth. 
+- Weak-kneed, weak-hearted, and afraid, 
+- Afraid to face the counsel of their timid hearts, 
+- Afraid to look men squarely, 
+- Down they gaze — 
+- With fatal fascination 
+- Down, down — 
+- Into the whirling maggot sands 
+- Of prejudice. 
 
+---
 
-THE INITIATE 
+## THE INITIATE 
 
-The woes of flesh are naught 
-To one who knows 
-The agony of soul! 
-'Twere but the thud of wind and rain 
-Upon the roof. 
-The woes of flesh are naught 
-To one who knows! 
-
-
-
-BONDAGE 
-
-Many cages round me, 
-Bar on bar 
-Stand grim, forbidding! 
-Ghostly pressures 
-Clutch my heart. 
-I gaze with eyes unseeing — 
-Whereunto may I wander free? 
-Alas, alas! 
-My garden walks lie inwardly! 
+- The woes of flesh are naught 
+- To one who knows 
+- The agony of soul! 
+- 'Twere but the thud of wind and rain 
+- Upon the roof. 
+- The woes of flesh are naught 
+- To one who knows! 
 
 
 
-RESOLUTION 
+## BONDAGE 
 
-With but one life full certified, 
-And that of every gleam denied 
-My portion, 
-Close to the unrelenting sod. 
-E'en as my fathers dumbly trod, 
-I've slumbered; 
-But now a surging, wild unrest 
-Uproots the poppies from my breast, 
-My soul awake, erect! anew! 
-I stand and face the star-swept blue, 
-And swear to make my dreams come true! 
+- Many cages round me, 
+- Bar on bar 
+- Stand grim, forbidding! 
+- Ghostly pressures 
+- Clutch my heart. 
+- I gaze with eyes unseeing — 
+- Whereunto may I wander free? 
+- Alas, alas! 
+- My garden walks lie inwardly! 
 
+---
 
-ECLIPSE 
+## RESOLUTION 
 
-Aflounder the uncompassed darkness of doubt 
-       In search of the path to the goal 
-That lies at the end of our transient day, 
-       The ultimate bourne of the soul; 
-I grasp into nothingness, feebly essay 
-       To clasp but a willow, a stone, 
-And grope through the stepless, unechoing gloom 
-       Unanswered, unsuccored, alone! 
+- With but one life full certified, 
+- And that of every gleam denied 
+- My portion, 
+- Close to the unrelenting sod. 
+- E'en as my fathers dumbly trod, 
+- I've slumbered; 
+- But now a surging, wild unrest 
+- Uproots the poppies from my breast, 
+- My soul awake, erect! anew! 
+- I stand and face the star-swept blue, 
+- And swear to make my dreams come true! 
 
+---
 
+## ECLIPSE 
 
-WHY 
+- Aflounder the uncompassed darkness of doubt 
+-        In search of the path to the goal 
+- That lies at the end of our transient day, 
+-        The ultimate bourne of the soul; 
+- I grasp into nothingness, feebly essay 
+-        To clasp but a willow, a stone, 
+- And grope through the stepless, unechoing gloom 
+-        Unanswered, unsuccored, alone! 
 
-The verdure sleeps In winter, 
-       Awakes with April rain, 
-The sun swings low — 'tis night — ascends, 
-       And lo! 'tis morn again: 
-The world spins on triumphant 
-       Across a trackless sky, 
-And man seeks evermore in vain 
-       The primal reason why. 
+---
 
-O whither are we rushing? 
-       And wherefrom were we torn? 
-We breathe from out the silences, 
-       And breathless, back are borne. 
+## WHY 
 
-Deep in the soul are voices 
-       Returning this reply: 
-It took a God to make us. 
-       Only God can answer why! 
+- The verdure sleeps In winter, 
+-        Awakes with April rain, 
+- The sun swings low — 'tis night — ascends, 
+-        And lo! 'tis morn again: 
+- The world spins on triumphant 
+-        Across a trackless sky, 
+- And man seeks evermore in vain 
+-        The primal reason why. 
 
+- O whither are we rushing? 
+-        And wherefrom were we torn? 
+- We breathe from out the silences, 
+-        And breathless, back are borne. 
 
+- Deep in the soul are voices 
+-        Returning this reply: 
+- It took a God to make us. 
+-        Only God can answer why! 
 
-HUSKS 
+---
 
-Forever and forevermore, 
-       Across the heights, the deeps, 
-Spurred by an ever-flaming zeal 
-       That slumbers not, nor sleeps — 
-We chase the furtive form of fame 
-       Beyond the edge of dusk, 
-To bear within our arms at length, 
-       An empty mocking, husk! 
+## HUSKS 
 
+- Forever and forevermore, 
+-        Across the heights, the deeps, 
+- Spurred by an ever-flaming zeal 
+-        That slumbers not, nor sleeps — 
+- We chase the furtive form of fame 
+-        Beyond the edge of dusk, 
+- To bear within our arms at length, 
+-        An empty mocking, husk! 
 
+---
 
-THE WATCHER 
+## THE WATCHER 
 
-The long, grim years with iron tread 
-       Move down the shuttered isle 
-Of time's unrecking labyrinth 
-       Paved with forgotten dead. 
+- The long, grim years with iron tread 
+-        Move down the shuttered isle 
+- Of time's unrecking labyrinth 
+-        Paved with forgotten dead. 
 
-And I, a feather in their wake, 
-       Gaze long and tremblingly 
-Into these sunless corridors, 
-       Praying the light to break! 
+- And I, a feather in their wake, 
+-        Gaze long and tremblingly 
+- Into these sunless corridors, 
+-        Praying the light to break! 
 
+---
 
+## THE VANISHED ROAD 
 
-THE VANISHED ROAD 
+- We're wending the trail of the vanishing road, 
+- With a song and a shout, just to lighten the load, 
+- That lies in the heart, filled with queries and cares, 
+- For never a traveler knows where he fares. 
 
-We're wending the trail of the vanishing road, 
-With a song and a shout, just to lighten the load, 
-That lies in the heart, filled with queries and cares, 
-For never a traveler knows where he fares. 
+- But on with a jest, and rollicksome cheer, 
+- With laughter that leaps, as a veil, for the tear; 
+- The world's weary caravan finds that abode 
+- That lies at the end of the vanishing road. 
 
-But on with a jest, and rollicksome cheer, 
-With laughter that leaps, as a veil, for the tear; 
-The world's weary caravan finds that abode 
-That lies at the end of the vanishing road. 
-
+---
 
 Appreciations 
+---
+
+## SERVICE 
+
+- When we count out our gold at the end of the day, 
+- And have filtered the dross that has cumbered the way, 
+- Oh, what were the hold of our treasury then 
+- Save the love we have shown to the children of men? 
+
+---
+
+## TO THE MARTYRED 
+
+- O sacrificial throng whose lives 
+-        Build up the yawning deeps 
+- O'er which we pass reflectively 
+-        To broader lights and sweeps. 
+
+- Know, that we hold with reverence 
+-        The signal price you paid, 
+- And all our trophies, one by one, 
+-        Upon your bier are laid. 
+
+---
+
+## TO JOHN BROWN 
+
+- We lift a song to you across the day 
+- Which bears through travailing the seed you spread 
+- In terror's morning, flung with fingers red 
+- In blood of tyrants, who debarred the way 
+- To Freedom's dawning. Hearken to the lay 
+- Chanted by dusky millions, soft and mellow-keyed, 
+- In minor measure. Martyr of the Freed, 
+- A song of memory across the day. 
+
+- Truth cannot perish though the earth erase 
+- The royal signals, leaving not a trace. 
+- And time still burgeoneth the fertile seed, 
+- Though he is crucified who wrought the deed: 
+- O Alleghanies, fold him to your breast 
+- Until the judgment! Sentinel his rest! 
+
+---
+
+## TO ABRAHAM LINCOLN 
+
+- Within the temple of our heart 
+- Your sacred memory dwells apart, 
+- Where ceaselessly a censor swings 
+- Alight with fragrant offerings; 
+- Nor time, nor tide, nor circumstance 
+- Can dim this grand remembrance, 
+- And all the blood of Afric hue 
+- Beats in one mighty tide — for you! 
+
+---
+
+## TO WILLIAM STANLEY BRAITHWAITE 
+
+- When time has rocked the present age to sleep, 
+- And lighter hearts are lilting to the sway 
+- Of rhythmic poesy's enhanced lay, 
+- Recurring sequences shall fitly keep 
+- Your fame eternal, as they lightly sweep 
+- Aside the curtain to that potent day 
+- When you in primal fervor led the way 
+- Unto Apollo's narrow winding steep. 
+
+- None shall forget your travail, utter, sore. 
+- That oped the golden avenue of song, 
+- When, like a knight, so errantly you bore 
+- The mantled children valiantly along. 
+- Their homage as a rising incense sweet 
+- Shall permeate the heavens at your feet! 
+
+---
+
+## TO W. E. B. DuBois— Scholar
+
+- Grandly isolate as the god of day — 
+- Blazing an orbit through the dank and gloom 
+- Of misty morning, far and fair you loom, 
+- Flooding the dimness with your golden ray, — 
+- Cheering the mantled on the thorn-set way, 
+- Teaching of Faith and Hope o'er the tomb. 
+- Where both, though buried, spring to newer bloom- 
+- Strengthened and sweet from the mound of decay. 
+
+- Soft! strains of Sanctus we lift on the air. 
+- Ere Nunc Dimittus at last shall be sung. 
+- Sing we our Sanctus to fitly declare 
+- Blessings that well up from hearts sorely wrung. 
+
+- Lead, lead us on o'er the furthermost stair — 
+- Light of our impotence! Joy of our tongue! 
+
+---
+
+## TO RIDGELY TORRENCE— PLAYWRIGHT 
+
+- All hail! fair vistas break upon the view, 
+- The gates swing wide and free with clanging sound, 
+- Rejoice! a mighty champion is found, 
+- Son of the morning, prescient and true. 
+- Upon the threshold of a cycle new 
+- He stands, and sentinels its virgin ground. 
+- Seer in his poet-visioning profound. 
+- Presaging vaster reaches — skies more blue. 
+
+- Lifting their misty glances to the day, 
+- The prismic children pass the erstwhile bars. 
+- Exultant, swiftly, boundlngly they stray. 
+- Awhile forgetful of deep, hidden scars 
+- Thus, as a golden legend time shall tell 
+- Of him who wrought so mightily and well! 
 
 
-SERVICE 
+---
 
-When we count out our gold at the end of the day, 
-And have filtered the dross that has cumbered the way, 
-Oh, what were the hold of our treasury then 
-Save the love we have shown to the children of men? 
+## TO RICHARD R. WRIGHT— INSTRUCTOR 
 
+- Son of a race, whose dusky visage shows 
+- The heel of fortune, those who walk unfree 
+- Though cradled in the hold of liberty, 
+- Whose shackled spirit every gamut knows 
+- Of Hate's cadenza, through whose v/arm blood flows 
+- The royal ransom of love's dynasty. 
+- Scion of these, he strides to meet his foes. 
+- Erect, unbending, note his sable brow, 
+- The rugged furrows where deep feelings plough, 
+- The step of vigor and the noble air, 
+- The subtle halo of his wintry hair. 
+- Up from the furnace of the Earth's red sea 
+- A man is fashioned for the years to be ! 
 
-TO THE MARTYRED 
+---
 
-O sacrificial throng whose lives 
-       Build up the yawning deeps 
-O'er which we pass reflectively 
-       To broader lights and sweeps. 
-
-Know, that we hold with reverence 
-       The signal price you paid, 
-And all our trophies, one by one, 
-       Upon your bier are laid. 
-
-
-
-TO JOHN BROWN 
-
-
-
-TO JOHN BROWN 
-
-We lift a song to you across the day 
-Which bears through travailing the seed you spread 
-In terror's morning, flung with fingers red 
-In blood of tyrants, who debarred the way 
-To Freedom's dawning. Hearken to the lay 
-Chanted by dusky millions, soft and mellow-keyed, 
-In minor measure. Martyr of the Freed, 
-A song of memory across the day. 
-
-Truth cannot perish though the earth erase 
-The royal signals, leaving not a trace. 
-And time still burgeoneth the fertile seed, 
-Though he is crucified who wrought the deed: 
-O Alleghanies, fold him to your breast 
-Until the judgment! Sentinel his rest! 
-
-
-
-TO ABRAHAM LINCOLN 
-
-Within the temple of our heart 
-Your sacred memory dwells apart, 
-Where ceaselessly a censor swings 
-Alight with fragrant offerings; 
-Nor time, nor tide, nor circumstance 
-Can dim this grand remembrance, 
-And all the blood of Afric hue 
-Beats in one mighty tide — for you! 
-
-
-
-TO WILLIAM STANLEY BRAITHWAITE 
-
-When time has rocked the present age to sleep, 
-And lighter hearts are lilting to the sway 
-Of rhythmic poesy's enhanced lay, 
-Recurring sequences shall fitly keep 
-Your fame eternal, as they lightly sweep 
-Aside the curtain to that potent day 
-When you in primal fervor led the way 
-Unto Apollo's narrow winding steep. 
-
-None shall forget your travail, utter, sore. 
-That oped the golden avenue of song, 
-When, like a knight, so errantly you bore 
-The mantled children valiantly along. 
-Their homage as a rising incense sweet 
-Shall permeate the heavens at your feet! 
-
-
-
-TO W. E. B. Dubois— SCHOLAR 
-
-Grandly isolate as the god of day — 
-Blazing an orbit through the dank and gloom 
-Of misty morning, far and fair you loom, 
-Flooding the dimness with your golden ray, — 
-Cheering the mantled on the thorn-set way, 
-Teaching of Faith and Hope o'er the tomb. 
-Where both, though buried, spring to newer bloom- 
-Strengthened and sweet from the mound of decay. 
-
-Soft! strains of Sanctus we lift on the air. 
-Ere Nunc Dimittus at last shall be sung. 
-Sing we our Sanctus to fitly declare 
-Blessings that well up from hearts sorely wrung. 
-
-Lead, lead us on o'er the furthermost stair — 
-Light of our impotence! Joy of our tongue! 
-
-
-
-TO RIDGELY TORRENCE— PLAYWRIGHT 
-
-All hail! fair vistas break upon the view, 
-The gates swing wide and free with clanging sound, 
-Rejoice! a mighty champion is found, 
-Son of the morning, prescient and true. 
-Upon the threshold of a cycle new 
-He stands, and sentinels its virgin ground. 
-Seer in his poet-visioning profound. 
-Presaging vaster reaches — skies more blue. 
-
-Lifting their misty glances to the day, 
-The prismic children pass the erstwhile bars. 
-Exultant, swiftly, boundlngly they stray. 
-Awhile forgetful of deep, hidden scars 
-Thus, as a golden legend time shall tell 
-Of him who wrought so mightily and well! 
-
-
-
-
-TO RICHARD R. WRIGHT— INSTRUCTOR 
-
-Son of a race, whose dusky visage shows 
-The heel of fortune, those who walk unfree 
-Though cradled in the hold of liberty, 
-Whose shackled spirit every gamut knows 
-Of Hate's cadenza, through whose v/arm blood flows 
-The royal ransom of love's dynasty. 
-Scion of these, he strides to meet his foes. 
-Erect, unbending, note his sable brow, 
-The rugged furrows where deep feelings plough, 
-The step of vigor and the noble air, 
-The subtle halo of his wintry hair. 
-Up from the furnace of the Earth's red sea 
-A man is fashioned for the years to be ! 
-
-
-
-TO SAMUEL COLERIDGE TAYLOR, UPON 
-HEARING HIS 
+## TO SAMUEL COLERIDGE TAYLOR, UPON HEARING HIS 
 
 
 [EMBEDDED ILLUSTRATION]
 
-Strange to a sensing motherhood, 
-Loved as a toy — not understood, 
-Child of a dusky father, bold; 
-Frail little captive, exiled, cold. 
+- Strange to a sensing motherhood, 
+- Loved as a toy — not understood, 
+- Child of a dusky father, bold; 
+- Frail little captive, exiled, cold. 
 
-Oft when the brooding planets sleep, 
-You through their drowsy empires creep, 
-Flinging your arms through their empty space, 
-Seeking the breast of an unknown face. 
-
-
-
-TO EMILIE BIGELOW HAPGOOD — 
-PHILANTHROPIST 
-
-Far from the seried ranks you sway, 
-       Firm in your own believing 
-In that frail brotherhood, who stray 
-       Sore anguishing, sore grieving. 
-Such hands as yours, adown the years 
-       Enchain a faith unbroken, 
-They stay the dreary waste of tears, 
-       And lift to Hope a token! 
+- Oft when the brooding planets sleep, 
+- You through their drowsy empires creep, 
+- Flinging your arms through their empty space, 
+- Seeking the breast of an unknown face. 
 
 
-TO HENRY LINCOLN JOHNSON — LAWYER 
+---
 
-Quite firmly did you stand, and unafraid 
-Before that haughty bar that sought to hold 
-You fettered, lest you strengthen and grow bold 
-To break a clearing through that fetid glade 
-Which their benighted prejudice had made; 
-They taunted you with darkling hints of gold. 
-Preferring you were bought as you had sold, 
-They weaved their webs like spiders in the shade. 
+## TO EMILIE BIGELOW HAPGOOD — PHILANTHROPIST 
 
-But as a giant in the falling night 
-Of storm, you forged afore with ruthless tread. 
-To offer up your heart's blood in the fight, 
-Forgetting self, unmindful, unafraid, 
-Nor pausing until thrice acclaimed the right 
-To rally in the tents of those you led. 
+- Far from the seried ranks you sway, 
+-        Firm in your own believing 
+- In that frail brotherhood, who stray 
+-        Sore anguishing, sore grieving. 
+- Such hands as yours, adown the years 
+-        Enchain a faith unbroken, 
+- They stay the dreary waste of tears, 
+-        And lift to Hope a token! 
 
 
-TO MARY CHURCH TERRELL — LECTURER 
+---
 
-A pioneer, she blazed a trail of light 
-Through murky shadows, with a lithesome tread 
-Unto those forums, where Hope's beams are shed: 
-Straight through the mighty cordon of the night, 
-Rapt with a vision, soul-born, clear and bright. 
-Leaving the South of frigid wrong, she sped 
-Into the North, where hearts glow warm instead, 
-A people's tragedy to there recite. 
+## TO HENRY LINCOLN JOHNSON — LAWYER 
 
-Hope's liquid pipings lift their tender lay, 
-Morning is waking, flushed with rosy gleam. 
-Night with its shadow winds with yesterday 
-Adown the world-way as an inky stream. 
-Seed time and harvest deftly interplay. 
-And Life's fruition is its vital dream! 
+- Quite firmly did you stand, and unafraid 
+- Before that haughty bar that sought to hold 
+- You fettered, lest you strengthen and grow bold 
+- To break a clearing through that fetid glade 
+- Which their benighted prejudice had made; 
+- They taunted you with darkling hints of gold. 
+- Preferring you were bought as you had sold, 
+- They weaved their webs like spiders in the shade. 
 
-
-TO MAY HOWARD JACKSON — SCULPTOR 
-
-You saw the vision in the face of clay, 
-And fixed it through the magic of a hand 
-Obedient unto the will’s command, 
-In forms impervious to Time's decay: 
-Historian of bloods that interplay 
-Confusedly within a cryptic land, 
-You've chiseled, and your work of art shall stand 
-To gem the archives of a better day. 
-
-Alone, far from the touch of kindred mind, 
-You've mounted with a grim, determined zeal. 
-Despite environment austere, unkind. 
-Or frozen-fingers clenched to your appeal. 
-You've held the ardor of your first ideal. 
-Robed in a queenly majesty, resigned. 
+- But as a giant in the falling night 
+- Of storm, you forged afore with ruthless tread. 
+- To offer up your heart's blood in the fight, 
+- Forgetting self, unmindful, unafraid, 
+- Nor pausing until thrice acclaimed the right 
+- To rally in the tents of those you led. 
 
 
-TO THE MEMORY OF INEZ MILHOLLAND 
+---
 
-Folded in silent veils of sleep, 
-       You calmly rest, 
-For God hath spoken, should we weep? 
-       He knoweth best. 
+## TO MARY CHURCH TERRELL — LECTURER 
 
-But rather let us garner still 
-       While yet we may, 
-And meet you in His Holy Hill 
-       On that Great Day! 
+- A pioneer, she blazed a trail of light 
+- Through murky shadows, with a lithesome tread 
+- Unto those forums, where Hope's beams are shed: 
+- Straight through the mighty cordon of the night, 
+- Rapt with a vision, soul-born, clear and bright. 
+- Leaving the South of frigid wrong, she sped 
+- Into the North, where hearts glow warm instead, 
+- A people's tragedy to there recite. 
+
+- Hope's liquid pipings lift their tender lay, 
+- Morning is waking, flushed with rosy gleam. 
+- Night with its shadow winds with yesterday 
+- Adown the world-way as an inky stream. 
+- Seed time and harvest deftly interplay. 
+- And Life's fruition is its vital dream! 
 
 
+---
 
-TO ATLANTA UNIVERSITY — ITS FOUNDERS AND TEACHERS 
+## TO MAY HOWARD JACKSON — SCULPTOR 
 
-Pass down the aisle of buried years to-night, 
-And stand uncovered in that holy place 
-Where noble structures lift their hallowed height 
-Beneath a bending Heaven's chaste embrace, 
-The fruit of those who scorned the path of ease, 
-To buckle on the armaments of care 
-Like to the Son of Man Himself, were these 
-Who gave themselves for brother men — less fair. 
+- You saw the vision in the face of clay, 
+- And fixed it through the magic of a hand 
+- Obedient unto the will’s command, 
+- In forms impervious to Time's decay: 
+- Historian of bloods that interplay 
+- Confusedly within a cryptic land, 
+- You've chiseled, and your work of art shall stand 
+- To gem the archives of a better day. 
 
-Before the blinding footlights of to-day 
-We man our parts within Life's tragic play, 
-Full mindful of the earnest love and care 
-That keeps eternal watch and vigil there; 
-Nor do they need fair monuments and scrolls — 
-Their memories are deathless in our souls. 
+- Alone, far from the touch of kindred mind, 
+- You've mounted with a grim, determined zeal. 
+- Despite environment austere, unkind. 
+- Or frozen-fingers clenched to your appeal. 
+- You've held the ardor of your first ideal. 
+- Robed in a queenly majesty, resigned. 
+
+---
+
+## TO THE MEMORY OF INEZ MILHOLLAND 
+
+- Folded in silent veils of sleep, 
+-        You calmly rest, 
+- For God hath spoken, should we weep? 
+-        He knoweth best. 
+
+- But rather let us garner still 
+-        While yet we may, 
+- And meet you in His Holy Hill 
+-        On that Great Day! 
+
+---
+
+## TO ATLANTA UNIVERSITY — ITS FOUNDERS AND TEACHERS 
+
+- Pass down the aisle of buried years to-night, 
+- And stand uncovered in that holy place 
+- Where noble structures lift their hallowed height 
+- Beneath a bending Heaven's chaste embrace, 
+- The fruit of those who scorned the path of ease, 
+- To buckle on the armaments of care 
+- Like to the Son of Man Himself, were these 
+- Who gave themselves for brother men — less fair. 
+
+- Before the blinding footlights of to-day 
+- We man our parts within Life's tragic play, 
+- Full mindful of the earnest love and care 
+- That keeps eternal watch and vigil there; 
+- Nor do they need fair monuments and scrolls — 
+- Their memories are deathless in our souls. 
 
