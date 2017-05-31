@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
+title:               Bronze
+tagline:             'A Book of Verse'
+description:         'Author of :/ "/The Heart of a Woman"/ "/An Autumn Love Cycle"/ Etc./'  
 url:                 'http://amardeepmsingh.github.io'
-baseurl:             '/ed'
+baseurl:             '/bronze'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Amardeep Singh
+  url:               https://www.electrostani.com
+  email:             amardeep@gmail.com
 
 # Permalinks
 
