@@ -758,7 +758,7 @@ Prescience
 
 --- 
 
-Exaltation 
+## Exaltation 
 
 ---
 
@@ -911,7 +911,7 @@ Exaltation
 
 ## TAPS 
 
-<img src="https://github.com/amardeepmsingh/bronze/blob/gh-pages/assets/Georgia%20Douglas%20Johnson%20Poem%20Taps%20Illustration.png">
+<p><img src="https://github.com/amardeepmsingh/bronze/blob/gh-pages/assets/Georgia%20Douglas%20Johnson%20Poem%20Taps%20Illustration.png" /></p>
 
 - They are embosomed in the sod, 
 - {:.indent-3}In still and tranquil leisure, 
@@ -949,7 +949,7 @@ Exaltation
 
 ---
 
-Random
+## Random
 
 ---
 
@@ -1088,7 +1088,7 @@ Random
 
 ---
 
-Appreciations 
+## Appreciations 
 ---
 
 ## SERVICE 
@@ -1230,7 +1230,7 @@ Appreciations
 ## TO SAMUEL COLERIDGE TAYLOR, UPON HEARING HIS 
 
 
-<img src="https://github.com/amardeepmsingh/bronze/blob/gh-pages/assets/georgia%20douglas%20johnson%20Poem%20To%20Samuel%20Coleridge%20Taylor%20illustration.png">
+<p><img src="https://github.com/amardeepmsingh/bronze/blob/gh-pages/assets/georgia%20douglas%20johnson%20Poem%20To%20Samuel%20Coleridge%20Taylor%20illustration.png" /></p>
 
 - Strange to a sensing motherhood, 
 - Loved as a toy — not understood, 
