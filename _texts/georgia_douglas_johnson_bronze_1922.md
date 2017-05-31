@@ -5,7 +5,7 @@ author: Georgia Douglas Johnson
 source: "Archive.org"
 toc:
 - Front Matter
-- Author's Foreword
+- Author's Note
 - Foreword by W.E.B. DuBois
 - Sonnet to the Mantled
 - Sonnet to Those Who See But Darkly
