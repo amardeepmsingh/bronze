@@ -327,9 +327,9 @@ Hold me, and guard, lest anguish tear my dreams
        away! 
 
 
+---
 
-
-LET ME NOT HATE 
+## LET ME NOT HATE 
 
 Let me not hate, although the bruising world decries 
        my peace, 
@@ -349,25 +349,25 @@ On down the world's grim night!
 
 
 
-CALLING DREAMS 
+## CALLING DREAMS 
 
-The right to make my dreams come true 
-I ask, nay, I demand of life, 
-Nor shall fate's deadly contraband 
-Impede my steps, nor countermand. 
+- The right to make my dreams come true 
+- I ask, nay, I demand of life, 
+- Nor shall fate's deadly contraband 
+- Impede my steps, nor countermand. 
 
-Too long my heart against the ground 
-Has beat the dusty years around, 
-And now, at length, I rise, I wake! 
-And stride into the morning-break ! 
+- Too long my heart against the ground 
+- Has beat the dusty years around, 
+- And now, at length, I rise, I wake! 
+- And stride into the morning-break ! 
 
 
-DESIRE 
+## DESIRE 
 
-Ope! ye everlasting doors, unto my soul's demand, 
-I would go forward, fare beyond these dusty boulevards, 
-Faint lights and fair allure me all insistently 
-And I must stand within the halls resplendent, of my dreams. 
+- Ope! ye everlasting doors, unto my soul's demand, 
+- I would go forward, fare beyond these dusty boulevards, 
+- Faint lights and fair allure me all insistently 
+- And I must stand within the halls resplendent, of my dreams. 
 
 
 
@@ -375,19 +375,19 @@ And I must stand within the halls resplendent, of my dreams.
 SHADOW 
 
 
+--- 
 
 
-
-SORROW SINGERS 
+## SORROW SINGERS 
 
 Hear their viol-voices ringing 
        Down the corridor of years, 
 As they lift their twilight faces 
        Through a mist of falling tears ! 
 
-
+---
  
-THE CROSS 
+## THE CROSS 
 
 All day the world's mad mocking strife, 
 The venomed prick of probing knife, 
@@ -399,8 +399,9 @@ To quench the fitful burnished gleams:
 A crucifixion in my dreams! 
 
 
+---
 
-PREJUDICE 
+## PREJUDICE 
 
 These fell miasmic rings of mist, with ghoulish menace 
        bound, 
@@ -413,8 +414,9 @@ Beneath incrusted silences, a seething Etna lies.
 The fire of whose furnaces may sleep — but never dies! 
 
 
+---
 
-LAOCOÖN 
+## LAOCOÖN 
 
 This spirit-choking atmosphere 
        With deadly serpent-coil 
@@ -443,9 +445,9 @@ And all my being broods to break
        This death-grip from my soul! 
 
 
+---
 
-
-MOODS 
+## MOODS 
 
 My heart is pregnant with a great despair 
 With much beholding of my people's care, 
@@ -461,7 +463,9 @@ In such an hour, it is mine to see,
 In frowning fortune smiling destiny! 
 
 
-HEGIRA 
+--- 
+
+## HEGIRA 
 
 Oh, black man, why do you northward roam, and leave 
        all the farm lands bare? 
@@ -508,9 +512,9 @@ To the land of the north, where the symbol of worth
 
 
 
+---
 
-
-THE PASSING OF THE EX-SLAVE 
+## THE PASSING OF THE EX-SLAVE 
 
 Swift melting into yesterday, 
 The tortured hordes of ebon-clay; 
@@ -533,8 +537,9 @@ So royal In their humble might
 These uncrowned Pilgrims of the Night! 
 
 
+---
 
-THE OCTOROON 
+## THE OCTOROON 
 
 One drop of midnight in the dawn of life's pulsating 
        stream 
@@ -553,8 +558,9 @@ Whose every breath is kindliness, whose hearts are
        purest gold. 
 
 
+---
 
-ALIENS 
+## ALIENS 
 
 (To You — Everywhere! Dedicated) 
 
@@ -583,8 +589,9 @@ While peace shall spread a rainbow o'er the earth from
        pole to pole. 
 
 
+--- 
 
-CONCORD 
+## CONCORD 
 
 
 
