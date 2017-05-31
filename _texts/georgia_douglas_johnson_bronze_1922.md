@@ -41,17 +41,17 @@ GOODMAN BROTHERS, INC.
 
 BOSTON, MASS. 
 
-©CUG90807 
+¬©CUG90807 
 
 
 
-Permission to reprint certain poems in this book has been courteously granted by the editors of "The Crisis" and "The Liberator.î The author wishes to make acknowledgment of the thanks due to Professor Alain Leroy Locke, of Howard University, for helpful criticism. 
+Permission to reprint certain poems in this book has been courteously granted by the editors of "The Crisis" and "The Liberator.‚Äù The author wishes to make acknowledgment of the thanks due to Professor Alain Leroy Locke, of Howard University, for helpful criticism. 
 
 
 
 AUTHOR'S NOTE 
 
-This book is the child of a hitter earth-wound. I sit on the earth and sing ó  sing out, and of, my sorrow. Yet, fully conscious of the potent agencies that silently work in their healing ministries, I know that God's sun shall one day shine upon a perfected and unhampered people.  
+This book is the child of a hitter earth-wound. I sit on the earth and sing ‚Äî  sing out, and of, my sorrow. Yet, fully conscious of the potent agencies that silently work in their healing ministries, I know that God's sun shall one day shine upon a perfected and unhampered people.  
 
 
 TO H. L. J. 
@@ -60,7 +60,7 @@ TO H. L. J.
 
 FOREWORD 
 
-Those who know what it means to be a colored woman in 1922 ó and know it not so much in fact as in feeling, apprehension, unrest and delicate yet stern thought ó  must read Georgia Douglas Johnson's Bronze. Much of it will not touch this reader and that, and some of it will mystify and puzzle them as a sort of reiteration and over-emphasis. But none can fail to be caught here and there by a word ó a phrase ó a period that tells a life history or even paints the history of a generation.  Can you not see that marching of the mantled with  
+Those who know what it means to be a colored woman in 1922 ‚Äî and know it not so much in fact as in feeling, apprehension, unrest and delicate yet stern thought ‚Äî  must read Georgia Douglas Johnson's Bronze. Much of it will not touch this reader and that, and some of it will mystify and puzzle them as a sort of reiteration and over-emphasis. But none can fail to be caught here and there by a word ‚Äî a phrase ‚Äî a period that tells a life history or even paints the history of a generation.  Can you not see that marching of the mantled with  
 
        "Voices strange to ecstasy?" 
 
@@ -81,7 +81,7 @@ New York, August 4, 1922.
 
 CONTENTS 
 
-Forewordó Dr. William E. B. DuBois Ñ _ Ñ....- o 9 
+Foreword‚Äî Dr. William E. B. DuBois ‚Äû _ ‚Äû....- o 9 
 
 EXHORTATION 
 
@@ -237,13 +237,13 @@ SONNET TO THE MANTLED
 And they shall rise and cast their mantles by, 
 Erect and strong and visioned, in the day 
 That rings the knell of Curfew o'er the sway 
-Of prejudice ó who reels with mortal cry 
+Of prejudice ‚Äî who reels with mortal cry 
 To lift no more her leprous, blinded eye. 
 Reft of the fetters, far more cursed than they 
 Which held dominion o'er human clay. 
 The spirit soars aloft where rainbows lie. 
 
-Like joyful exiles swift returning home ó 
+Like joyful exiles swift returning home ‚Äî 
 The rhythmic chanson of their eager feet. 
 While voices strange to ecstasy, long dumb. 
 Break forth in major rhapsodies, full sweet. 
@@ -260,7 +260,7 @@ Like phantoms groping enswathed from the light
 Up from miasmic depths, children of night, 
 Surge to the piping of Hope's dulcet lay, 
 Souled like the lily, whose splendors declare 
-God's mazËd paradox ó purged of all blight. 
+God's maz√®d paradox ‚Äî purged of all blight. 
 Out from the quagmire, unsullied and fair. 
 
 Life holds her arms o'er the festering way, 
@@ -389,11 +389,11 @@ They still the soaring will to wing, to dance, to speed
 And fling the soul insurgent back into its shell of clay: 
 
 Beneath incrusted silences, a seething Etna lies. 
-The fire of whose furnaces may sleep ó but never dies! 
+The fire of whose furnaces may sleep ‚Äî but never dies! 
 
 
 
-LAOCO÷N 
+LAOCO√ñN 
 
 This spirit-choking atmosphere 
        With deadly serpent-coil 
@@ -520,7 +520,7 @@ One drop of midnight in the dawn of life's pulsating
 Marks her an alien from her kind, a shade amid its 
        gleam; 
 Forevermore her step she bends insular, strange, 
-       apart ó 
+       apart ‚Äî 
 And none can read the riddle of her wildly warring 
        heart. 
 
@@ -535,7 +535,7 @@ Whose every breath is kindliness, whose hearts are
 
 ALIENS 
 
-(To You ó Everywhere! Dedicated) 
+(To You ‚Äî Everywhere! Dedicated) 
 
 They seem to smile as others smile, the masquerader's 
        art 
@@ -545,8 +545,8 @@ Betwixt the two contending stones of crass humanity
 They lie, the fretted fabric of a dual dynasty. 
 
 A single drop, a sable strain debars them from their 
-       own,-ó 
-The others ó fold them furtively, but God! they are 
+       own,-‚Äî 
+The others ‚Äî fold them furtively, but God! they are 
        alone. 
 Blown by the fickle winds of fate far from the traveled 
        mart 
@@ -603,7 +603,7 @@ The wordless measure of her woe.
 MATERNITY 
 
 Proud? 
-Perhapsó and yet 
+Perhaps‚Äî and yet 
 I cannot say with surety 
 That I am happy thus to be 
 Responsible for this young life's embarking. 
@@ -618,9 +618,9 @@ Recall the pulsing life I gave,
 And fold him in the kindly grave ! 
 
 Proud? 
-Perhaps ó could I but ever so faintly scan 
+Perhaps ‚Äî could I but ever so faintly scan 
 The broad horizon of a man 
-Swept fair for his dominion ó 
+Swept fair for his dominion ‚Äî 
 So hesitant and half-afraid 
 I view this babe of sorrow! 
 
@@ -718,7 +718,7 @@ GUARDIANSHIP
 
 That dusky child upon your knee 
 Is breath of God's eternity; 
-Direct his vision to the height ó 
+Direct his vision to the height ‚Äî 
 Let naught obscure his royal right. 
 
 Although the highways to renown 
@@ -835,7 +835,7 @@ And rise with the hour for which you were made.
 The cycle of seasons, the tidals of man 
 Revolve in the orb of an infinite plan. 
 We move to the rhythm of ages long done, 
-And each has his hour ó to dwell in the sun! 
+And each has his hour ‚Äî to dwell in the sun! 
 
 
 
@@ -909,14 +909,14 @@ The strong hope on,
 They see the clods close over head, 
 The grass grow green. 
 No word is said. 
-And yet ó 
+And yet ‚Äî 
 A little world within the world 
 Are we, 
 Daily our hearts' high yearnings fade, 
 Are buried! 
-New ones are made, ó 
+New ones are made, ‚Äî 
 Are crucified! 
-And yet ó 
+And yet ‚Äî 
 
 
 
@@ -937,7 +937,7 @@ Shod with a faith that Springtime keeps, and all the
 SOLDIER 
 
 Though I should weep until the judgment, 
-How would it serve ó 
+How would it serve ‚Äî 
 Brave men are fighting, women speed them, 
 'Tis a day 
 Of crucial conflict! 
@@ -1039,9 +1039,9 @@ And spawn the earth.
 Weak-kneed, weak-hearted, and afraid, 
 Afraid to face the counsel of their timid hearts, 
 Afraid to look men squarely, 
-Down they gaze ó 
+Down they gaze ‚Äî 
 With fatal fascination 
-Down, down ó 
+Down, down ‚Äî 
 Into the whirling maggot sands 
 Of prejudice. 
 
@@ -1066,7 +1066,7 @@ Bar on bar
 Stand grim, forbidding! 
 Ghostly pressures 
 Clutch my heart. 
-I gaze with eyes unseeing ó 
+I gaze with eyes unseeing ‚Äî 
 Whereunto may I wander free? 
 Alas, alas! 
 My garden walks lie inwardly! 
@@ -1105,7 +1105,7 @@ WHY
 
 The verdure sleeps In winter, 
        Awakes with April rain, 
-The sun swings low ó 'tis night ó ascends, 
+The sun swings low ‚Äî 'tis night ‚Äî ascends, 
        And lo! 'tis morn again: 
 The world spins on triumphant 
        Across a trackless sky, 
@@ -1129,7 +1129,7 @@ HUSKS
 Forever and forevermore, 
        Across the heights, the deeps, 
 Spurred by an ever-flaming zeal 
-       That slumbers not, nor sleeps ó 
+       That slumbers not, nor sleeps ‚Äî 
 We chase the furtive form of fame 
        Beyond the edge of dusk, 
 To bear within our arms at length, 
@@ -1222,7 +1222,7 @@ Alight with fragrant offerings;
 Nor time, nor tide, nor circumstance 
 Can dim this grand remembrance, 
 And all the blood of Afric hue 
-Beats in one mighty tide ó for you! 
+Beats in one mighty tide ‚Äî for you! 
 
 
 
@@ -1246,12 +1246,12 @@ Shall permeate the heavens at your feet!
 
 
 
-TO W. E. B. Duboisó SCHOLAR 
+TO W. E. B. Dubois‚Äî SCHOLAR 
 
-Grandly isolate as the god of day ó 
+Grandly isolate as the god of day ‚Äî 
 Blazing an orbit through the dank and gloom 
 Of misty morning, far and fair you loom, 
-Flooding the dimness with your golden ray, ó 
+Flooding the dimness with your golden ray, ‚Äî 
 Cheering the mantled on the thorn-set way, 
 Teaching of Faith and Hope o'er the tomb. 
 Where both, though buried, spring to newer bloom- 
@@ -1262,12 +1262,12 @@ Ere Nunc Dimittus at last shall be sung.
 Sing we our Sanctus to fitly declare 
 Blessings that well up from hearts sorely wrung. 
 
-Lead, lead us on o'er the furthermost stair ó 
+Lead, lead us on o'er the furthermost stair ‚Äî 
 Light of our impotence! Joy of our tongue! 
 
 
 
-TO RIDGELY TORRENCEó PLAYWRIGHT 
+TO RIDGELY TORRENCE‚Äî PLAYWRIGHT 
 
 All hail! fair vistas break upon the view, 
 The gates swing wide and free with clanging sound, 
@@ -1276,7 +1276,7 @@ Son of the morning, prescient and true.
 Upon the threshold of a cycle new 
 He stands, and sentinels its virgin ground. 
 Seer in his poet-visioning profound. 
-Presaging vaster reaches ó skies more blue. 
+Presaging vaster reaches ‚Äî skies more blue. 
 
 Lifting their misty glances to the day, 
 The prismic children pass the erstwhile bars. 
@@ -1288,7 +1288,7 @@ Of him who wrought so mightily and well!
 
 
 
-TO RICHARD R. WRIGHTó INSTRUCTOR 
+TO RICHARD R. WRIGHT‚Äî INSTRUCTOR 
 
 Son of a race, whose dusky visage shows 
 The heel of fortune, those who walk unfree 
@@ -1313,7 +1313,7 @@ HEARING HIS
 [EMBEDDED ILLUSTRATION]
 
 Strange to a sensing motherhood, 
-Loved as a toy ó not understood, 
+Loved as a toy ‚Äî not understood, 
 Child of a dusky father, bold; 
 Frail little captive, exiled, cold. 
 
@@ -1324,7 +1324,7 @@ Seeking the breast of an unknown face.
 
 
 
-TO EMILIE BIGELOW HAPGOOD ó 
+TO EMILIE BIGELOW HAPGOOD ‚Äî 
 PHILANTHROPIST 
 
 Far from the seried ranks you sway, 
@@ -1337,7 +1337,7 @@ They stay the dreary waste of tears,
        And lift to Hope a token! 
 
 
-TO HENRY LINCOLN JOHNSON ó LAWYER 
+TO HENRY LINCOLN JOHNSON ‚Äî LAWYER 
 
 Quite firmly did you stand, and unafraid 
 Before that haughty bar that sought to hold 
@@ -1356,7 +1356,7 @@ Nor pausing until thrice acclaimed the right
 To rally in the tents of those you led. 
 
 
-TO MARY CHURCH TERRELL ó LECTURER 
+TO MARY CHURCH TERRELL ‚Äî LECTURER 
 
 A pioneer, she blazed a trail of light 
 Through murky shadows, with a lithesome tread 
@@ -1375,11 +1375,11 @@ Seed time and harvest deftly interplay.
 And Life's fruition is its vital dream! 
 
 
-TO MAY HOWARD JACKSON ó SCULPTOR 
+TO MAY HOWARD JACKSON ‚Äî SCULPTOR 
 
 You saw the vision in the face of clay, 
 And fixed it through the magic of a hand 
-Obedient unto the willís command, 
+Obedient unto the will‚Äôs command, 
 In forms impervious to Time's decay: 
 Historian of bloods that interplay 
 Confusedly within a cryptic land, 
@@ -1408,7 +1408,7 @@ And meet you in His Holy Hill
 
 
 
-TO ATLANTA UNIVERSITY ó ITS FOUNDERS AND TEACHERS 
+TO ATLANTA UNIVERSITY ‚Äî ITS FOUNDERS AND TEACHERS 
 
 Pass down the aisle of buried years to-night, 
 And stand uncovered in that holy place 
@@ -1417,12 +1417,12 @@ Beneath a bending Heaven's chaste embrace,
 The fruit of those who scorned the path of ease, 
 To buckle on the armaments of care 
 Like to the Son of Man Himself, were these 
-Who gave themselves for brother men ó less fair. 
+Who gave themselves for brother men ‚Äî less fair. 
 
 Before the blinding footlights of to-day 
 We man our parts within Life's tragic play, 
 Full mindful of the earnest love and care 
 That keeps eternal watch and vigil there; 
-Nor do they need fair monuments and scrolls ó 
+Nor do they need fair monuments and scrolls ‚Äî 
 Their memories are deathless in our souls. 
 
