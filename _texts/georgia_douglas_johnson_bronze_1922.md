@@ -4,7 +4,9 @@ title: Bronze
 author: Georgia Douglas Johnson
 source: "Archive.org"
 toc:
-- Foreword
+- Front Matter
+- Author's Foreword
+- Foreword by W.E.B. DuBois
 - Sonnet to the Mantled
 - Sonnet to Those Who See But Darkly
 - Brotherhood 
@@ -67,6 +69,7 @@ toc:
 
 ---
 
+## FRONT MATTER
 
 by Georgia Douglas Johnson
 
@@ -97,16 +100,19 @@ Permission to reprint certain poems in this book has been courteously granted by
 
 
 
-AUTHOR'S NOTE 
+---
+
+## AUTHOR'S NOTE 
 
 This book is the child of a hitter earth-wound. I sit on the earth and sing —  sing out, and of, my sorrow. Yet, fully conscious of the potent agencies that silently work in their healing ministries, I know that God's sun shall one day shine upon a perfected and unhampered people.  
 
 
 TO H. L. J. 
 
+
 ---
 
-## FOREWORD 
+## FOREWORD BY W.E.B. DuBois
 
 Those who know what it means to be a colored woman in 1922 — and know it not so much in fact as in feeling, apprehension, unrest and delicate yet stern thought —  must read Georgia Douglas Johnson's Bronze. Much of it will not touch this reader and that, and some of it will mystify and puzzle them as a sort of reiteration and over-emphasis. But none can fail to be caught here and there by a word — a phrase — a period that tells a life history or even paints the history of a generation.  Can you not see that marching of the mantled with  
 
