@@ -69,7 +69,7 @@ toc:
 
 ---
 
-## FRONT MATTER
+## Front Matter
 
 by Georgia Douglas Johnson
 
@@ -102,7 +102,7 @@ Permission to reprint certain poems in this book has been courteously granted by
 
 ---
 
-## AUTHOR'S NOTE 
+## Author's Note
 
 This book is the child of a hitter earth-wound. I sit on the earth and sing —  sing out, and of, my sorrow. Yet, fully conscious of the potent agencies that silently work in their healing ministries, I know that God's sun shall one day shine upon a perfected and unhampered people.  
 
@@ -112,7 +112,7 @@ TO H. L. J.
 
 ---
 
-## FOREWORD BY W.E.B. DuBois
+## Foreword by W.E.B. DuBois
 
 Those who know what it means to be a colored woman in 1922 — and know it not so much in fact as in feeling, apprehension, unrest and delicate yet stern thought —  must read Georgia Douglas Johnson's Bronze. Much of it will not touch this reader and that, and some of it will mystify and puzzle them as a sort of reiteration and over-emphasis. But none can fail to be caught here and there by a word — a phrase — a period that tells a life history or even paints the history of a generation.  Can you not see that marching of the mantled with  
 
@@ -244,6 +244,8 @@ Supplication
 - And now, at length, I rise, I wake! 
 - And stride into the morning-break ! 
 
+
+--- 
 
 ## DESIRE 
 
@@ -909,7 +911,7 @@ Martial
 
 ## TAPS 
 
-[EMBEDDED IMAGE]
+<img src="https://github.com/amardeepmsingh/bronze/blob/gh-pages/assets/Georgia%20Douglas%20Johnson%20Poem%20Taps%20Illustration.png">
 
 - They are embosomed in the sod, 
 - {:.indent-3}In still and tranquil leisure, 
@@ -1228,7 +1230,7 @@ Appreciations
 ## TO SAMUEL COLERIDGE TAYLOR, UPON HEARING HIS 
 
 
-[EMBEDDED ILLUSTRATION]
+<img src="https://github.com/amardeepmsingh/bronze/blob/gh-pages/assets/georgia%20douglas%20johnson%20Poem%20To%20Samuel%20Coleridge%20Taylor%20illustration.png">
 
 - Strange to a sensing motherhood, 
 - Loved as a toy — not understood, 
