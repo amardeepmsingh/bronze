@@ -195,13 +195,13 @@ Supplication
 ## LET ME NOT LOSE MY DREAM 
 
 - Let me not lose my dream, e'en though I scan the veil 
--       with eyes unseeing through their glaze of tears, 
+- {:.indent-3}with eyes unseeing through their glaze of tears, 
 - Let me not falter, though the rungs of fortune perish 
--        as I fare above the tumult, praying purer air, 
+- {:.indent-3}as I fare above the tumult, praying purer air, 
 - Let me not lose the vision, gird me. Powers that toss 
--        the worlds, I pray! 
+- {:.indent-3}the worlds, I pray! 
 - Hold me, and guard, lest anguish tear my dreams 
--        away! 
+- {:.indent-3}away! 
 
 
 ---
@@ -209,16 +209,16 @@ Supplication
 ## LET ME NOT HATE 
 
 - Let me not hate, although the bruising world decries 
--        my peace, 
+- {:.indent-3}my peace, 
 - Gives me no quarter, hounds me while I sleep; 
 - Would snuff the candles of my soul and sear my inmost 
--        dreamings. 
+- {:.indent-3}dreamings. 
 
 - Let me not hate, though girt by vipers, green and hiss- 
--        ing through the dark; 
+- {:.indent-3}ing through the dark; 
 
 - I fain must love. God help me keep the altar-gleams 
--        that flicker wearily, anon, 
+- {:.indent-3}that flicker wearily, anon, 
 
 - On down the world's grim night! 
 
@@ -248,9 +248,9 @@ Supplication
 
 
 
+--- 
 
 SHADOW 
-
 
 --- 
 
@@ -258,9 +258,9 @@ SHADOW
 ## SORROW SINGERS 
 
 - Hear their viol-voices ringing 
--        Down the corridor of years, 
+- {:.indent-3}Down the corridor of years, 
 - As they lift their twilight faces 
--        Through a mist of falling tears ! 
+- {:.indent-3}Through a mist of falling tears ! 
 
 ---
  
@@ -281,10 +281,10 @@ SHADOW
 ## PREJUDICE 
 
 - These fell miasmic rings of mist, with ghoulish menace 
--        bound, 
+- {:.indent-3}bound, 
 - Like noose-horizons tightening my little world around, 
 - They still the soaring will to wing, to dance, to speed 
--        away. 
+- {:.indent-3}away. 
 - And fling the soul insurgent back into its shell of clay: 
 
 - Beneath incrusted silences, a seething Etna lies. 
@@ -296,30 +296,30 @@ SHADOW
 ## LAOCOÖN 
 
 - This spirit-choking atmosphere 
--        With deadly serpent-coil 
+- {:.indent-3}With deadly serpent-coil 
 - Entwines my soaring-upwardness 
--        And chains me to the soil, 
+- {:.indent-3}And chains me to the soil, 
 - Where'er I seek with eager stride 
--        To gain yon gleaming height, 
+- {:.indent-3}To gain yon gleaming height, 
 - These noisesome fetters coil aloft 
--        And snare my buoyant flight. 
+- {:.indent-3}And snare my buoyant flight. 
 
 - O, why these aspirations bold, 
--        These rigours of desire. 
+- {:.indent-3}These rigours of desire. 
 - That surge within so ceaselessly 
--        Like living tongues of fire? 
+- {:.indent-3}Like living tongues of fire? 
 - And why these glowing forms of hope 
--        That scintillate and shine, 
+- {:.indent-3}That scintillate and shine, 
 - If naught of all that burnished dream 
--        Can evermore be mine? 
+- {:.indent-3}Can evermore be mine? 
 - It cannot be, fate does not mock, 
--        And man's untoward decree 
+- {:.indent-3}And man's untoward decree 
 - Shall not forever thus confine 
--        My life's entirety, 
+- {:.indent-3}My life's entirety, 
 - My every fibre fierce rebels 
--        Against this servile role, 
+- {:.indent-3}Against this servile role, 
 - And all my being broods to break 
--        This death-grip from my soul! 
+- {:.indent-3}This death-grip from my soul! 
 
 
 ---
@@ -345,47 +345,47 @@ SHADOW
 ## HEGIRA 
 
 - Oh, black man, why do you northward roam, and leave 
--        all the farm lands bare? 
+- {:.indent-3}all the farm lands bare? 
 - Is your house not warm, tightly thatched from storm, 
--        and a larder replete your share? 
+- {:.indent-3}and a larder replete your share? 
 - And have you not schools, fit with books and tools the 
--        steps of your young to guide? 
+- {:.indent-3}steps of your young to guide? 
 - Then what do you seek, in the north cold and bleak, 
--        'mid the whirl of its teeming tide? 
+- {:.indent-3}'mid the whirl of its teeming tide? 
 
 - I have toiled in your cornfields, and parched in the sun, 
--        I have bowed 'neath your load of care, 
+- {:.indent-3}I have bowed 'neath your load of care, 
 - I have patiently garnered your bright golden grain, in 
--        season of storm and fair. 
+- {:.indent-3}season of storm and fair. 
 - With a smile I have answered your glowering gloom, 
--        while my wounded heart quivering bled. 
+- {:.indent-3}while my wounded heart quivering bled. 
 - Trailing mute in your wake, as your rosy dawn breaks, 
--        while I curtain the mound of my dead. 
+- {:.indent-3}while I curtain the mound of my dead. 
 
 - Though my children are taught in the schools you have 
--        wrought, they are blind to the sheen of the sky, 
+- {:.indent-3}wrought, they are blind to the sheen of the sky, 
 - For the brand of your hand, casts a pall o'er the land, 
--        that enshadows the gleam of the eye. 
+- {:.indent-3}that enshadows the gleam of the eye. 
 - My sons, deftly sapped of the brawn-hood of man, self- 
--        rejected and impotent stand, 
+- {:.indent-3}rejected and impotent stand, 
 
 - My daughters, unhaloed, unhonored, undone, feed the 	
--        lust of a dominant land. 
+- {:.indent-3}lust of a dominant land. 
 
 - I would not remember, yet could not forget, how the 
--        hearts beating true to your own. 
+- {:.indent-3}hearts beating true to your own. 
 - You've tortured, and wounded, and filtered their blood 
--        'till a budding Hegira has blown. 
+- {:.indent-3}'till a budding Hegira has blown. 
 
 - Unstrange is the pathway to Calvary's hill, which I 
--        wend in my dumb agony, 
+- {:.indent-3}wend in my dumb agony, 
 - Up its perilous height, in the pale morning light, to 
--        dissever my own from the tree. 
+- {:.indent-3}dissever my own from the tree. 
 
 - And so I'm away, where the sky-line of day sets the 
--        arch of its rainbow afar, 
+- {:.indent-3}arch of its rainbow afar, 
 - To the land of the north, where the symbol of worth 
--        sets the broad gates of combat ajar! 
+- {:.indent-3}sets the broad gates of combat ajar! 
 
 
 
@@ -419,20 +419,20 @@ SHADOW
 ## THE OCTOROON 
 
 - One drop of midnight in the dawn of life's pulsating 
--        stream 
+- {:.indent-3}stream 
 - Marks her an alien from her kind, a shade amid its 
--        gleam; 
+- {:.indent-3}gleam; 
 - Forevermore her step she bends insular, strange, 
--        apart — 
+- {:.indent-3}apart — 
 - And none can read the riddle of her wildly warring 
--        heart. 
+- {:.indent-3}heart. 
 
 - The stormy current of her blood beats like a mighty sea 
 - Against the man-wrought iron bars of her captivity. 
 - For refuge, succor, peace and rest, she seeks that 
--        humble fold 
+- {:.indent-3}humble fold 
 - Whose every breath is kindliness, whose hearts are 
--        purest gold. 
+- {:.indent-3}purest gold. 
 
 
 ---
@@ -442,28 +442,28 @@ SHADOW
 - (To You — Everywhere! Dedicated) 
 
 - They seem to smile as others smile, the masquerader's 
--        art 
+- {:.indent-3}art 
 - Conceals them, while, in verity, they're eating out their 
--        heart. 
+- {:.indent-3}heart. 
 - Betwixt the two contending stones of crass humanity 
 - They lie, the fretted fabric of a dual dynasty. 
 
 - A single drop, a sable strain debars them from their 
--        own,-— 
+- {:.indent-3}own,-— 
 - The others — fold them furtively, but God! they are 
--        alone. 
+- {:.indent-3}alone. 
 - Blown by the fickle winds of fate far from the traveled 
--        mart 
+- {:.indent-3}mart 
 - To die, when they have quite consumed the morsel of 
--        their heart. 
+- {:.indent-3}their heart. 
 - When man shall lift his lowered eyes to meet the moon 
--        of truth, 
+- {:.indent-3}of truth, 
 - Shall break the shallow shell of pride and wax in ways 
--        of ruth, 
+- {:.indent-3}of ruth, 
 - He cannot hate, for love shall reign untrammelled in 
--        the soul, 
+- {:.indent-3}the soul, 
 - While peace shall spread a rainbow o'er the earth from 
--        pole to pole. 
+- {:.indent-3}pole to pole. 
 
 
 --- 
@@ -538,22 +538,22 @@ Motherhood
 ## BLACK WOMAN 
 
 - Don't knock at my door, little child, 
--        I cannot let you in. 
+- {:.indent-3}I cannot let you in. 
 - You know not what a world this is 
--        Of cruelty and sin. 
+- {:.indent-3}Of cruelty and sin. 
 - Wait in the still eternity 
--        Until I come to you, 
+- {:.indent-3}Until I come to you, 
 - The world is cruel, cruel, child, 
--        I cannot let you in! 
+- {:.indent-3}I cannot let you in! 
 
 - Don't knock at my heart, little one, 
--        I cannot bear the pain 
+- {:.indent-3}I cannot bear the pain 
 - Of turning deaf-ear to your call 
--        Time and time again! 
+- {:.indent-3}Time and time again! 
 - You do not know the monster men 
--        Inhabiting the earth. 
+- {:.indent-3}Inhabiting the earth. 
 - Be still, be still, my precious child, 
--        I must not give you birth! 
+- {:.indent-3}I must not give you birth! 
 
 
 
@@ -562,12 +562,12 @@ Motherhood
 ## "ONE OF THE LEAST OF THESE, MY LITTLE ONE'' 
 
 - The infant eyes look out amazed upon the frowning 
--        earth, 
+- {:.indent-3}earth, 
 - A stranger, in a land now strange, child of the mantled- 
--        birth; 
+- {:.indent-3}birth; 
 
 - Waxing, he wonders more and more; the scowling grows 
--        apace; 
+- {:.indent-3}apace; 
 - A world, behind its barring doors, reviles his ebon face: 
 
 - Yet from this maelstrom issues forth a God-like entity. 
@@ -578,22 +578,22 @@ Motherhood
 ## SHALL I SAY, "MY SON, YOU'RE BRANDED"? 
 
 - Shall I say, "My son, you're branded in this country's 
--        pageantry, 
+- {:.indent-3}pageantry, 
 - By strange subtleties you're tethered, and no forum 
--        sets you free?" 
+- {:.indent-3}sets you free?" 
 - Shall I mark the young lights fading through your soul- 
--        enchannelled eye, 
+- {:.indent-3}enchannelled eye, 
 - As the dusky pall of shadows screen the highway of 
--        your sky? 
+- {:.indent-3}your sky? 
 
 - Or shall I, with love prophetic, bid you dauntlessly 
--        arise. 
+- {:.indent-3}arise. 
 - Spurn the handicap that clogs you, taking what the 
--        world denies, 
+- {:.indent-3}world denies, 
 - Bid you storm the sullen fortress wrought by prejudice 
--        and wrong 
+- {:.indent-3}and wrong 
 - With a faith that shall not falter, in your heart and on 
--        your tongue! 
+- {:.indent-3}your tongue! 
 
 ---
 
@@ -601,24 +601,24 @@ Motherhood
 ## MY BOY 
 
 - I hear you singing happily, 
--        My boy of tarnished mien, 
+- {:.indent-3}My boy of tarnished mien, 
 - Lifting your limpid, trustful gaze 
--        In innocence serene. 
+- {:.indent-3}In innocence serene. 
 
 - A thousand javelins of pain 
--        Assault my heaving breast 
+- {:.indent-3}Assault my heaving breast 
 - When I behold the storm of years 
--        That beat without your nest. 
+- {:.indent-3}That beat without your nest. 
 
 - O sing, my lark, your matin song 
--        Of joyous rhapsody, 
+- {:.indent-3}Of joyous rhapsody, 
 - Distil the sweetness of the hours 
--        In gladsome ecstasy. 
+- {:.indent-3}In gladsome ecstasy. 
 
 - For time awaits your buoyant flight 
--        Across the bar of years. 
+- {:.indent-3}Across the bar of years. 
 - Sing, sing your song, my bonny lark, 
--        Before it melts in tears! 
+- {:.indent-3}Before it melts in tears! 
 
 ---
 
@@ -650,13 +650,13 @@ Motherhood
 ## LITTLE SON 
 
 - The very acme of my woe, 
--        The pivot of my pride, 
+- {:.indent-3}The pivot of my pride, 
 - My consolation, and my hope 
--        Deferred, but not denied. 
+- {:.indent-3}Deferred, but not denied. 
 - The substance of my every dream, 
--        The riddle of my plight, 
+- {:.indent-3}The riddle of my plight, 
 - The very world epitomized 
--        In turmoil and delight. 
+- {:.indent-3}In turmoil and delight. 
 
 
 ---
@@ -701,32 +701,32 @@ Prescience
 ## PROMISE 
 
 - Through the moil and the gloom they have issued 
--        To the steps of the upwinding hill, 
+- {:.indent-3}To the steps of the upwinding hill, 
 
 - Where the sweet, dulcet pipes of tomorrow 
--        In their preluding rhapsodies trill. 
+- {:.indent-3}In their preluding rhapsodies trill. 
 
 - With a thud comes a stir in the bosom, 
--        As there steals on the sight from afar, 
+- {:.indent-3}As there steals on the sight from afar, 
 
 - Through a break of a cloud's coiling shadow 
--        The gleam of a bright morning star! 
+- {:.indent-3}The gleam of a bright morning star! 
 
 ---
 
 ## THE SUPPLIANT 
 
 - Long have I beat with timid hands upon life's leaden 
--        door, 
+- {:.indent-3}door, 
 - Praying the patient, futile prayer my fathers prayed 
--        before, 
+- {:.indent-3}before, 
 - Yet I remain without the close, unheeded and unheard, 
 - And never to my listening ear is borne the waited word. 
 
 - Soft o'er the threshold of the years there comes this 
--        counsel cool: 
+- {:.indent-3}counsel cool: 
 - The strong demand, contend, prevail; the beggar is a 
--        fool! 
+- {:.indent-3}fool! 
 
 ---
 
@@ -844,13 +844,13 @@ Martial
 ## WE FACE THE FUTURE 
 
 - The hour Is big with sooth and sign, with errant men 
--        at war, 
+- {:.indent-3}at war, 
 - While blood of alien, friend, and foe imbues the land 
--        afar, 
+- {:.indent-3}afar, 
 - And we, with sable faces pent, move with the vanguard 
--  	 line. 
+- {:.indent-3}line. 
 - Shod with a faith that Springtime keeps, and all the 
--        stars opine. 
+- {:.indent-3}stars opine. 
 
 --- 
 
@@ -906,38 +906,38 @@ Martial
 [EMBEDDED IMAGE]
 
 - They are embosomed in the sod, 
--        In still and tranquil leisure, 
+- {:.indent-3}In still and tranquil leisure, 
 - Their lives they've cast like trifles down, 
--        To serve their country's pleasure. 
+- {:.indent-3}To serve their country's pleasure. 
 
 - Nor bugle call, nor mother's voice. 
--        Nor moody mob's unreason, 
+- {:.indent-3}Nor moody mob's unreason, 
 - Shall break their solace and repose 
--        Through swiftly changing season. 
+- {:.indent-3}Through swiftly changing season. 
 
 - O graves of men who lived and died 
--        Afar from life's high pleasures, 
+- {:.indent-3}Afar from life's high pleasures, 
 - Fold them in tenderly and warm 
--        With manifold fond measures. 
+- {:.indent-3}With manifold fond measures. 
 
 ---
 
 ## PEACE 
 
 - Peace on a thousand hills and dales, 
--        Peace in the hearts of men 
+- {:.indent-3}Peace in the hearts of men 
 - While kindliness reclaims the soil 
--        Where bitterness has been. 
+- {:.indent-3}Where bitterness has been. 
 
 - The night of strife is drifting past, 
--        The storm of shell has ceased. 
+- {:.indent-3}The storm of shell has ceased. 
 - Disrupted is the cordon fell, 
--        Sweet charity released. 
+- {:.indent-3}Sweet charity released. 
 
 - Forth from the shadow, swift we come 
--        Wrought in the flame together. 
+- {:.indent-3}Wrought in the flame together. 
 - All men as one beneath the sun 
--        In brotherhood forever. 
+- {:.indent-3}In brotherhood forever. 
 
 ---
 
@@ -1006,63 +1006,63 @@ Random
 ## ECLIPSE 
 
 - Aflounder the uncompassed darkness of doubt 
--        In search of the path to the goal 
+- {:.indent-3}In search of the path to the goal 
 - That lies at the end of our transient day, 
--        The ultimate bourne of the soul; 
+- {:.indent-3}The ultimate bourne of the soul; 
 - I grasp into nothingness, feebly essay 
--        To clasp but a willow, a stone, 
+- {:.indent-3}To clasp but a willow, a stone, 
 - And grope through the stepless, unechoing gloom 
--        Unanswered, unsuccored, alone! 
+- {:.indent-3}Unanswered, unsuccored, alone! 
 
 ---
 
 ## WHY 
 
-- The verdure sleeps In winter, 
--        Awakes with April rain, 
+- The verdure sleeps in winter, 
+- {:.indent-3}Awakes with April rain, 
 - The sun swings low — 'tis night — ascends, 
--        And lo! 'tis morn again: 
+- {:.indent-3}And lo! 'tis morn again: 
 - The world spins on triumphant 
--        Across a trackless sky, 
+- {:.indent-3}Across a trackless sky, 
 - And man seeks evermore in vain 
--        The primal reason why. 
+- {:.indent-3}The primal reason why. 
 
 - O whither are we rushing? 
--        And wherefrom were we torn? 
+- {:.indent-3}And wherefrom were we torn? 
 - We breathe from out the silences, 
--        And breathless, back are borne. 
+- {:.indent-3}And breathless, back are borne. 
 
 - Deep in the soul are voices 
--        Returning this reply: 
+- {:.indent-3}Returning this reply: 
 - It took a God to make us. 
--        Only God can answer why! 
+- {:.indent-3}Only God can answer why! 
 
 ---
 
 ## HUSKS 
 
 - Forever and forevermore, 
--        Across the heights, the deeps, 
+- {:.indent-3}Across the heights, the deeps, 
 - Spurred by an ever-flaming zeal 
--        That slumbers not, nor sleeps — 
+- {:.indent-3}That slumbers not, nor sleeps — 
 - We chase the furtive form of fame 
--        Beyond the edge of dusk, 
+- {:.indent-3}Beyond the edge of dusk, 
 - To bear within our arms at length, 
--        An empty mocking, husk! 
+- {:.indent-3}An empty mocking, husk! 
 
 ---
 
 ## THE WATCHER 
 
 - The long, grim years with iron tread 
--        Move down the shuttered isle 
+- {:.indent-3}Move down the shuttered isle 
 - Of time's unrecking labyrinth 
--        Paved with forgotten dead. 
+- {:.indent-3}Paved with forgotten dead. 
 
 - And I, a feather in their wake, 
--        Gaze long and tremblingly 
+- {:.indent-3}Gaze long and tremblingly 
 - Into these sunless corridors, 
--        Praying the light to break! 
+- {:.indent-3}Praying the light to break! 
 
 ---
 
@@ -1095,14 +1095,14 @@ Appreciations
 ## TO THE MARTYRED 
 
 - O sacrificial throng whose lives 
--        Build up the yawning deeps 
+- {:.indent-3}Build up the yawning deeps 
 - O'er which we pass reflectively 
--        To broader lights and sweeps. 
+- {:.indent-3}To broader lights and sweeps. 
 
 - Know, that we hold with reverence 
--        The signal price you paid, 
+- {:.indent-3}The signal price you paid, 
 - And all our trophies, one by one, 
--        Upon your bier are laid. 
+- {:.indent-3}Upon your bier are laid. 
 
 ---
 
@@ -1240,13 +1240,13 @@ Appreciations
 ## TO EMILIE BIGELOW HAPGOOD — PHILANTHROPIST 
 
 - Far from the seried ranks you sway, 
--        Firm in your own believing 
+- {:.indent-3}Firm in your own believing 
 - In that frail brotherhood, who stray 
--        Sore anguishing, sore grieving. 
+- {:.indent-3}Sore anguishing, sore grieving. 
 - Such hands as yours, adown the years 
--        Enchain a faith unbroken, 
+- {:.indent-3}Enchain a faith unbroken, 
 - They stay the dreary waste of tears, 
--        And lift to Hope a token! 
+- {:.indent-3}And lift to Hope a token! 
 
 
 ---
@@ -1316,14 +1316,14 @@ Appreciations
 ## TO THE MEMORY OF INEZ MILHOLLAND 
 
 - Folded in silent veils of sleep, 
--        You calmly rest, 
+- {:.indent-3}You calmly rest, 
 - For God hath spoken, should we weep? 
--        He knoweth best. 
+- {:.indent-3}He knoweth best. 
 
 - But rather let us garner still 
--        While yet we may, 
+- {:.indent-3}While yet we may, 
 - And meet you in His Holy Hill 
--        On that Great Day! 
+- {:.indent-3}On that Great Day! 
 
 ---
 
