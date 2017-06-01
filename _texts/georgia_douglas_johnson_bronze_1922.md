@@ -913,7 +913,7 @@ New York, August 4, 1922.
 
 ## TAPS 
 
-<p><img src="https://github.com/amardeepmsingh/bronze/blob/gh-pages/assets/Georgia%20Douglas%20Johnson%20Poem%20Taps%20Illustration.png" /></p>
+<p><img src="bronze/assets/georgia douglas johnson Poem To Samuel Coleridge Taylor illustration.png" /></p>
 
 - They are embosomed in the sod, 
 - {:.indent-3}In still and tranquil leisure, 
