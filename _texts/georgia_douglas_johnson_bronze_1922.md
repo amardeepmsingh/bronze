@@ -106,7 +106,7 @@ Permission to reprint certain poems in this book has been courteously granted by
 
 ## Author Note
 
-This book is the child of a hitter earth-wound. I sit on the earth and sing —  sing out, and of, my sorrow. Yet, fully conscious of the potent agencies that silently work in their healing ministries, I know that God's sun shall one day shine upon a perfected and unhampered people.  
+This book is the child of a bitter earth-wound. I sit on the earth and sing —  sing out, and of, my sorrow. Yet, fully conscious of the potent agencies that silently work in their healing ministries, I know that God's sun shall one day shine upon a perfected and unhampered people.  
 
 
 TO H. L. J. 
