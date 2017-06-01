@@ -69,7 +69,7 @@ toc:
 
 ---
 
-<p><i>A simple edition of Georgia Douglas Johnson's "Bronze," derived from [Archive.org](https://archive.org/details/bronzebookofvers00john). Edition created by Amardeep Singh.</i> </p>
+<p><i>A simple edition of Georgia Douglas Johnson's 1922 collection "Bronze," derived from a source text at <a href="https://archive.org/details/bronzebookofvers00john">Archive.org</a>. This minimal edition created by Amardeep Singh, May 2017, using Alex Gil's "Ed" theme for Jekyll.</i> </p>
 
 ## Front Matter
 
@@ -194,9 +194,9 @@ New York, August 4, 1922.
 - To lift a chanson for the feet 
 - That stumble down life's checkered street.
 
+---
 
-
-Supplication 
+## SUPPLICATION
 
 ---
 
@@ -260,7 +260,7 @@ Supplication
 
 --- 
 
-SHADOW 
+## SHADOW 
 
 --- 
 
@@ -495,7 +495,7 @@ SHADOW
 
 ---
 
-Motherhood 
+## MOTHERHOOD
 
 --- 
 
@@ -689,7 +689,7 @@ Motherhood
 
 --- 
 
-Prescience 
+## PRESCIENCE
 
 ---
 
@@ -760,7 +760,7 @@ Prescience
 
 --- 
 
-## Exaltation 
+## EXALTATION
 
 ---
 
