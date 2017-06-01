@@ -915,7 +915,7 @@ New York, August 4, 1922.
 
 ## TAPS 
 
-<p><img src="bronze/assets/georgia douglas johnson Poem To Samuel Coleridge Taylor illustration.png" /></p>
+[EMBEDDED IMAGE]
 
 - They are embosomed in the sod, 
 - {:.indent-3}In still and tranquil leisure, 
@@ -953,7 +953,7 @@ New York, August 4, 1922.
 
 ---
 
-## Random
+## RANDOM
 
 ---
 
@@ -1092,7 +1092,7 @@ New York, August 4, 1922.
 
 ---
 
-## Appreciations 
+## APPRECIATIONS
 ---
 
 ## SERVICE 
@@ -1231,8 +1231,9 @@ New York, August 4, 1922.
 
 ---
 
-## TO SAMUEL COLERIDGE TAYLOR, UPON HEARING HIS 
+## TO SAMUEL COLERIDGE TAYLOR
 
+<p>[EMBEDDED IMAGE--Music Notation to "Sometimes I Feel Like a Motherless child"]</p>
 
 <p><img src="https://github.com/amardeepmsingh/bronze/blob/gh-pages/assets/georgia%20douglas%20johnson%20Poem%20To%20Samuel%20Coleridge%20Taylor%20illustration.png" /></p>
 
