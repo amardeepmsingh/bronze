@@ -69,6 +69,8 @@ toc:
 
 ---
 
+<p><i>A simple edition of Georgia Douglas Johnson's "Bronze," derived from [Archive.org](https://archive.org/details/bronzebookofvers00john). Edition created by Amardeep Singh.</i> </p>
+
 ## Front Matter
 
 by Georgia Douglas Johnson
@@ -78,7 +80,7 @@ Author of "The Heart of a Woman,"
 
 With an Introduction by 
 
-Dr. W.E.B. Dubois 
+Dr. W.E.B. DuBois 
 
 BOSTON 
 B. J. BRIMMER COMPANY 
@@ -114,11 +116,11 @@ TO H. L. J.
 
 ## Foreword by W.E.B. DuBois
 
-Those who know what it means to be a colored woman in 1922 — and know it not so much in fact as in feeling, apprehension, unrest and delicate yet stern thought —  must read Georgia Douglas Johnson's Bronze. Much of it will not touch this reader and that, and some of it will mystify and puzzle them as a sort of reiteration and over-emphasis. But none can fail to be caught here and there by a word — a phrase — a period that tells a life history or even paints the history of a generation.  Can you not see that marching of the mantled with  
+Those who know what it means to be a colored woman in 1922 — and know it not so much in fact as in feeling, apprehension, unrest and delicate yet stern thought — must read Georgia Douglas Johnson's Bronze. Much of it will not touch this reader and that, and some of it will mystify and puzzle them as a sort of reiteration and over-emphasis. But none can fail to be caught here and there by a word — a phrase — a period that tells a life history or even paints the history of a generation.  Can you not see that marching of the mantled with  
 
        "Voices strange to ecstasy?" 
 
-Have you ever looked on the ^'twilight faces" of their throngs, or seen the black mother with her son when 
+Have you ever looked on the "twilight faces" of their throngs, or seen the black mother with her son when 
 
        "Her heart is sandaling his feet?" 
 
@@ -845,7 +847,7 @@ Prescience
 
 ----
 
-## Martial 
+## MARTIAL
 
 ---
 
