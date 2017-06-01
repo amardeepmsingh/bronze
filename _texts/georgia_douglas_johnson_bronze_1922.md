@@ -69,7 +69,7 @@ toc:
 
 ---
 
-<p><i>A simple edition of Georgia Douglas Johnson's 1922 collection "Bronze," derived from a source text at <a href="https://archive.org/details/bronzebookofvers00john">Archive.org</a>. This minimal edition created by Amardeep Singh, May 2017, using Alex Gil's "Ed" theme for Jekyll.</i> </p>
+<p><i>A simple edition of Georgia Douglas Johnson's 1922 collection "Bronze," derived from a source text at <a href="https://archive.org/details/bronzebookofvers00john">Archive.org</a>. This minimal edition created by Amardeep Singh, May 2017, using Alex Gil's "Ed" theme for Jekyll. </i> </p>
 
 ## Front Matter
 
@@ -108,9 +108,9 @@ Permission to reprint certain poems in this book has been courteously granted by
 
 This book is the child of a bitter earth-wound. I sit on the earth and sing —  sing out, and of, my sorrow. Yet, fully conscious of the potent agencies that silently work in their healing ministries, I know that God's sun shall one day shine upon a perfected and unhampered people.  
 
+---
 
 TO H. L. J. 
-
 
 ---
 
@@ -136,7 +136,9 @@ New York, August 4, 1922.
 
 ---
 
+## EXHORTATION
 
+---
 
 ## SONNET TO THE MANTLED
 
